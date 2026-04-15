@@ -1,0 +1,758 @@
+{
+  "Denizli Çardak, Türkiye": [
+    37.7860348,
+    29.6973403
+  ],
+  "Afyonkarahisar Dazkırı, Türkiye": [
+    37.932836,
+    29.8641593
+  ],
+  "Konya Akşehir- Afyonkarahisar Çay, Türkiye": null,
+  "Çocuk Parkı Afyon İst. Giriş (Başlangıç)- D-300 Karayolu Konya-Afyonkarahisar Yolu- Başkanın Yeri Afyon İst. Çıkış (Bitiş), Türkiye": null,
+  "Başkanın Yeri Afyon İst. Çıkış (Başlangıç)- D-300 Karayolu Konya-Afyonkarahisar Yolu-  Çocuk Parkı Afyon İst. Giriş(Bitiş), Türkiye": null,
+  "D300-09 Konya-Afyonkarahisar İstikameti km 26 (Başlanğıç)-DEREÇİNE-D300-09 Konya-Afyonkarahisar İstikameti km 24(Bitiş), Türkiye": null,
+  "D300-09 Afyonkarahisar-Konya İstikameti km 24(Başlanğıç)-DEREÇİNE-D300-09 Afyonkarahisar -Konya İstikameti km 26(Bitiş), Türkiye": null,
+  "Cumhuriyet Kavşağı(Başlangıç)-Yeni İstanbul Caddesi-Mobilyacılar (Bitiş), Türkiye": null,
+  "Mobilyacılar (Başlangıç)-Yeni İstanbul Caddesi-Cumhuriyet Kavşağı(Bitiş), Türkiye": null,
+  "Denizli Bozkurt, Türkiye": [
+    37.8302076,
+    29.6101895
+  ],
+  "Denizli Merkez, Türkiye": [
+    37.7951909,
+    29.0811056
+  ],
+  "Konya Akşehir (K.Y)-Konya Akşehir (A.Y), Türkiye": null,
+  "Konya Ilgın- Konya Akşehir, Türkiye": [
+    38.2962892,
+    31.6788608
+  ],
+  "Konya Akşehir, Türkiye": [
+    38.3305083,
+    31.5459591
+  ],
+  "Konya Ilgın, Türkiye": [
+    38.290171,
+    31.8002178
+  ],
+  "Konya Akşehir (A.Y)-Konya Akşehir (K.Y), Türkiye": null,
+  "Afyonkarahisar Çay, Türkiye": [
+    38.5986072,
+    31.0098638
+  ],
+  "Konya Kadınhanı, Türkiye": [
+    38.2463229,
+    32.1795559
+  ],
+  "Konya Karapınar- Konya Ereğli, Türkiye": [
+    37.6560318,
+    33.7357945
+  ],
+  "Konya Karatay- Konya Kadınhanı, Türkiye": null,
+  "Konya Ilgın- Konya Kadınhanı, Türkiye": [
+    38.2704221,
+    32.0916362
+  ],
+  "Konya Karatay, Türkiye": [
+    37.9043133,
+    32.531169
+  ],
+  "Konya Karapınar, Türkiye": [
+    37.7048261,
+    33.5375529
+  ],
+  "Konya Ereğli- Konya Karapınar, Türkiye": [
+    37.6560318,
+    33.7357945
+  ],
+  "Konya Kadınhanı- Konya Karatay, Türkiye": null,
+  "Konya Karapınar- Konya Karatay, Türkiye": [
+    37.7113996,
+    33.3105442
+  ],
+  "Marsan Kavşağı (Başlangıç)-Adana Çevre  Caddesi-Sedirler Kavşağı (Bitiş), Türkiye": null,
+  "Marsan Kavşağı (Başlangıç)-Adana Çevre  Caddesi-EREĞLİ Kavşağı (Bitiş), Türkiye": null,
+  "Sedirler Kavşağı(Başlangıç)-Adana Çevre  Caddesi- EREĞLİ(Bitiş), Türkiye": null,
+  "Şehir Hastanesi Kavşağı(Başlangıç)-Adana Çevre  Caddesi- Sedirler Kavşağı(Bitiş), Türkiye": null,
+  "Şehir Hastanesi Kavşağı(Başlangıç)-Adana Çevre  Caddesi- Marsan Kavşağı(Bitiş), Türkiye": null,
+  "Ereğli Kavşağı(Başlangıç)-Adana Çevre  Caddesi- Sedirler Kavşağı(Bitiş), Türkiye": null,
+  "Ereğli Kavşağı(Başlangıç)-Adana Çevre  Caddesi- Marsan Kavşağı(Bitiş), Türkiye": null,
+  "Sedirler Kavşağı(Başlangıç)-Adana Çevre  Caddesi- Marsan KAVŞAĞI(Bitiş), Türkiye": null,
+  "Bosna Kavşağı(Başlangıç)-Yeni İstanbul  Caddesi-Fırat Kavşağı(Bitiş), Türkiye": null,
+  "Bosna Kavşağı(Başlangıç)-Yeni İstanbul  Caddesi-Türmak Kavşağı(Bitiş), Türkiye": null,
+  "Fırat Kavşağı(Başlangıç)-Yeni İstanbul  Caddesi- Türmak Kavşağı(Bitiş), Türkiye": null,
+  "Türmak Kavşağı(Başlangıç)-Yeni İstanbul  Caddesi-Fırat Kavşağı(Bitiş), Türkiye": null,
+  "Türmak Kavşağı(Başlangıç)-Yeni İstanbul  Caddesi-BosnaKavşağı(Bitiş), Türkiye": null,
+  "Fırat Kavşağı(Başlangıç)-Yeni İstanbul  Caddesi- Bosna Kavşağı(Bitiş), Türkiye": null,
+  "Eskişehir Sivrihisar, Türkiye": [
+    39.7757728,
+    30.5200592
+  ],
+  "Ankara Merkez, Türkiye": [
+    38.4616169,
+    33.9168719
+  ],
+  "Balıkesir Susurluk-Balıkesir Merkez, Türkiye": null,
+  "Balıkesir Merkez-Balıkesir Susurluk, Türkiye": null,
+  "Bursa Nilüfer-Balıkesir Susurluk, Türkiye": null,
+  "Bursa Kestel, Türkiye": [
+    40.1998922,
+    29.2120659
+  ],
+  "Bursa İnegöl, Türkiye": [
+    40.0912947,
+    29.5154453
+  ],
+  "Eskişehir Merkes, Türkiye": null,
+  "Bursa Karacabey, Türkiye": [
+    40.0859236,
+    28.358749
+  ],
+  "Bursa Nilüfer, Türkiye": [
+    40.2377192,
+    28.9215662
+  ],
+  "Balıkesir Susurluk-Bursa Nilüfer, Türkiye": null,
+  "Eskişehir Merkez, Türkiye": [
+    40.143438,
+    29.9788076
+  ],
+  "Eskişehir Merkez 017- Eskişehir Merkez 024, Türkiye": null,
+  "Eskişehir Merkez 024- Eskişehir Merkez 017, Türkiye": null,
+  "İncek Ayrımı- Eryaman, Türkiye": null,
+  "Eryaman Bağlantısı- İncek, Türkiye": null,
+  "Tuğay Kavşağı (Başlangıç)-D, Türkiye": null,
+  "100-12 DEVLET YOLU (Ankara Yönü)-Büyüksu Köprüsü(Bitiş), Türkiye": null,
+  "Büyüksu Köprüsü (Başlangıç)-D, Türkiye": null,
+  "100-12 DEVLET YOLU (Ankara Yönü) Tuğay Kavşağı (Bitiş), Türkiye": null,
+  "Balıkesir Bandırma, Türkiye": [
+    40.3501147,
+    27.9777024
+  ],
+  "Balıkesir Bandırma-Bursa Karacabey, Türkiye": null,
+  "Arap Dede Köprüsü (Başlangıç)-D200 Kara yolu-Kartaneleri Anaokulu (Bitiş), Türkiye": null,
+  "Kartaneleri Anaokulu (Başlangıç)-D200 Kara yolu-Arap Dede Köprüsü (Bitiş), Türkiye": null,
+  "Arap Dede Köprüsü (Başlangıç)-D200 Kara yolu-Havuzlu Kafe Önü (Bitiş), Türkiye": null,
+  "Havuzlu Kafe Önü (Başlangıç)-D200 Kara yolu- Arap Dede Köprüsü(Bitiş), Türkiye": null,
+  "Kartaneleri Anaokulu (Başlangıç)-D200 Kara yolu-Havuzlu Kafe Önü (Bitiş), Türkiye": null,
+  "Havuzlu Kafe Önü(Başlangıç)-D200 Kara yolu- Arap Dede Köprüsü (Bitiş), Türkiye": null,
+  "Antalya Merkez, Türkiye": [
+    36.3683332,
+    30.2863391
+  ],
+  "Antalya Serik, Türkiye": [
+    36.9171308,
+    31.0664333
+  ],
+  "Uluyayla Kavşağı(Başlangıç)-Yeni İstanbul Caddesi-Aydınlık Kavşağı(Bitiş), Türkiye": null,
+  "Uluyayla Kavşağı(Başlangıç)-Yeni İstanbul Caddesi-Koyuncu Kavşağı(Bitiş), Türkiye": null,
+  "Uluyayla Kavşağı(Başlangıç)-Çevre Yolu Caddesi-Sille Kavşağı(Bitiş), Türkiye": null,
+  "Uluyayla Kavşağı(Başlangıç)-Çevre Yolu Caddesi-Şefikcan Kavşağı(Bitiş), Türkiye": null,
+  "Şefikcan Kavşağı(Başlangıç)-Çevre Yolu Caddesi-Sille Kavşağı(Bitiş), Türkiye": null,
+  "Şefikcan Kavşağı(Başlangıç)-Çevre Yolu Caddesi-Koyuncu Kavşağı(Bitiş), Türkiye": null,
+  "Şefikcan Kavşağı(Başlangıç)-Yeni İstanbul Caddesi-AydınlıkKavşağı(Bitiş), Türkiye": null,
+  "Şefikcan Kavşağı(Başlangıç)-Yeni İstanbul Caddesi-UluyaylaKavşağı(Bitiş), Türkiye": null,
+  "Fatih Kavşağı(Başlangıç)-Beyşehir Çevre  Caddesi-Hicaz Kavşağı(Bitiş), Türkiye": null,
+  "Hicaz Kavşağı(Başlangıç)-Beyşehir Çevre  Caddesi-Fatih Kavşağı(Bitiş), Türkiye": null,
+  "Konya Merkez, Türkiye": [
+    38.2922361,
+    33.7672339
+  ],
+  "Konya Beyşehir, Türkiye": [
+    37.6948325,
+    31.7163533
+  ],
+  "Konya Beyşehir- Konya Merkez, Türkiye": null,
+  "Musalı Sokak kesişimi (Başlangıç)-Mehmet Özhaseki Bulvarı-Yuvacık Sokak kesişimi (Bitiş), Türkiye": null,
+  "Karaman Kâzımkarabekir-Karaman Merkez, Türkiye": [
+    37.2411893,
+    32.9458254
+  ],
+  "Karaman Ayrancı- Karaman Merkez, Türkiye": [
+    37.3085741,
+    33.5411983
+  ],
+  "Karaman Merkez- Karaman Kâzımkarabekir, Türkiye": [
+    37.2411893,
+    32.9458254
+  ],
+  "Karaman Merkez-Karaman Ayrancı, Türkiye": [
+    37.3085741,
+    33.5411983
+  ],
+  "Karaman Konya Yolu Sanayi kavşagı başlangıç-Karaman Konya istikameti-Karaman Konya Yolu Karalgazi kavşagı bitiş, Türkiye": null,
+  "Konya Karaman Yolu Golda Konutları başlangıç-Konya Karaman İstikameti-Konya Karaman Yolu Merkez Kavşak bitiş, Türkiye": null,
+  "Muğla Yatağan, Türkiye": [
+    37.287958,
+    27.8010451
+  ],
+  "Aydın Merkez, Türkiye": [
+    37.8471749,
+    27.8337255
+  ],
+  "Niğde Merkez-Nevşehir Derinkuyu, Türkiye": [
+    38.2596545,
+    34.7695749
+  ],
+  "Nevşehir Derinkuyu-Niğde Merkez, Türkiye": [
+    38.2596545,
+    34.7695749
+  ],
+  "Nevşehir Merkez-Nevşehir Derinkuyu, Türkiye": [
+    38.2596545,
+    34.7695749
+  ],
+  "Nevşehir Derinkuyu-Nevşehir Merkez, Türkiye": [
+    38.4242744,
+    34.7378433
+  ],
+  "Çorum Merkez, Türkiye": [
+    40.5499106,
+    34.9537344
+  ],
+  "E80-ALİŞİNOĞLU (Başlangıç)-SAMSUN Yolu, Türkiye": null,
+  "E80-OPET (Bitiş), Türkiye": null,
+  "E80-OPET  (Başlangıç)- SAMSUN Yolu -E80-ALİŞİNOĞLU (Bitiş), Türkiye": null,
+  "Samsun Kavak, Türkiye": [
+    41.0904437,
+    36.0505283
+  ],
+  "Samsun Merkez, Türkiye": [
+    40.5701986,
+    34.9884635
+  ],
+  "Samsun 19 Mayıs, Türkiye": [
+    41.4947674,
+    36.0870342
+  ],
+  "Samsun Havza, Türkiye": [
+    40.9825304,
+    35.6908146
+  ],
+  "Çadır Restoran Kavşağı (Başlangıç)- SAMSUN, Türkiye": null,
+  "ANKARA YOLU E95 DEVLET KARAYOLU-Ahullu Kavşağı (Bitiş), Türkiye": null,
+  "Ahullu Kavşağı(Başlangıç)- SAMSUN, Türkiye": null,
+  "ANKARA YOLU E95 DEVLET KARAYOLU- Çadır Restoran Kavşağı (Bitiş), Türkiye": null,
+  "Turgut ÖZAL KYK Kavşağı (Başlangıç)- ATATÜRK BULVARI  D010 DKY-Beyaz Saray Düğün Salonu Kavşağı (Bitiş), Türkiye": null,
+  "Beyaz Saray Düğün Salonu Kavşağı(Başlangıç)- ATATÜRK BULVARI  D010 DKY- Turgut ÖZAL KYK Kavşağı (Bitiş), Türkiye": null,
+  "Erzincan Refahiye- Sivas İmranlı, Türkiye": [
+    39.8663487,
+    38.4237654
+  ],
+  "Sivas Şarkışla- Sivas Şarkışla, Türkiye": [
+    39.320395,
+    36.3410021
+  ],
+  "Erzincan Merkez, Türkiye": [
+    39.7467552,
+    39.49103
+  ],
+  "Erzincan Refahiye, Türkiye": [
+    39.9106368,
+    38.7692311
+  ],
+  "Sivas İmranlı- Erzincan Refahiye, Türkiye": [
+    39.8663487,
+    38.4237654
+  ],
+  "Kayseri İncesu-Kayseri Merkez, Türkiye": null,
+  "Kayseri Merkez- Kayseri İncesu, Türkiye": null,
+  "Kayseri Yeşilhisar- Kayseri İncesu, Türkiye": null,
+  "Sivas Gemerek -Kayseri Merkez, Türkiye": null,
+  "Kayseri İncesu-Kayseri Yeşilhisar, Türkiye": null,
+  "Sivas Zara, Türkiye": [
+    39.8982682,
+    37.7571216
+  ],
+  "Sivas İmranlı, Türkiye": [
+    39.8715625,
+    38.1375925
+  ],
+  "Sivas Hafik- Sivas İmranlı, Türkiye": null,
+  "Sivas Merkez (Erzincan), Türkiye": [
+    39.7888825,
+    39.395421
+  ],
+  "Sivas Hafik, Türkiye": [
+    39.82906,
+    37.2634698
+  ],
+  "Kayseri Merkez, Türkiye": [
+    37.956903,
+    34.6999904
+  ],
+  "Sivas Gemerek, Türkiye": [
+    39.2283702,
+    36.1244724
+  ],
+  "Sivas Şarkışla -Sivas Gemerek, Türkiye": [
+    39.263508,
+    36.1738344
+  ],
+  "Sivas Merkez (Kayseri), Türkiye": [
+    39.720774,
+    37.012874
+  ],
+  "Sivas İmranlı- Sivas Hafik, Türkiye": null,
+  "Sivas Hafik-Sivas Merkez (Erzincan), Türkiye": [
+    39.8345206,
+    37.3477181
+  ],
+  "Sivas Şarkışla- Sivas Merkez, Türkiye": [
+    39.4366337,
+    36.5779513
+  ],
+  "Sivas Gemerek- Sivas Şarkışla, Türkiye": [
+    39.263508,
+    36.1738344
+  ],
+  "Sivas Merkez-Sivas Şarkışla, Türkiye": [
+    39.4366337,
+    36.5779513
+  ],
+  "Zara İstikameti Başlangıç-D 200 DEVLET YOLU-Zara İstikameti Bitiş, Türkiye": null,
+  "Sivas İstikameti Başlangıç-D 200 DEVLET YOLU-Sivas İstikameti Bitiş, Türkiye": null,
+  "Havalimanı Kavşağı(Başlangıç)-Ankara Yolu Caddesi-Aksaray Kavşağı-1(Bitiş), Türkiye": null,
+  "Havalimanı Kavşağı(Başlangıç)-Ankara Yolu Caddesi-Aksaray Kavşağı-2(Bitiş), Türkiye": null,
+  "Havalimanı Kavşağı(Başlangıç)-Ankara Yolu Caddesi-Gülistan Kavşağı-1(Bitiş), Türkiye": null,
+  "Havalimanı Kavşağı(Başlangıç)-Ankara Yolu Caddesi-Kunduracılar Kavşağı-1(Bitiş), Türkiye": null,
+  "Havalimanı Kavşağı(Başlangıç)-Ankara Yolu Caddesi-Büsan Kavşağı-1(Bitiş), Türkiye": null,
+  "Havalimanı Kavşağı(Başlangıç)-Ankara Yolu Caddesi-Adana Köprülü Kavşaığı-1(Bitiş), Türkiye": null,
+  "Adana Köprülü Kavşaığı(Başlangıç)-Ankara Yolu Caddesi-Hüdai Kavşağı(Bitiş)-1(Bitiş), Türkiye": null,
+  "Adana Köprülü Kavşaığı(Başlangıç)-Ankara Yolu Caddesi-Gülistan Kavşağı-(Bitiş), Türkiye": null,
+  "Adana Köprülü Kavşaığı(Başlangıç)-Ankara Yolu Caddesi-Aksaray Kavşağı-3(Bitiş), Türkiye": null,
+  "Adana Köprülü Kavşaığı(Başlangıç)-Ankara Yolu Caddesi-Aksaray Kavşağı-4(Bitiş), Türkiye": null,
+  "Konya Cihanbeyli-Konya Cihanbeyli, Türkiye": [
+    38.870224,
+    32.7910768
+  ],
+  "Konya Merkez-Konya Cihanbeyli, Türkiye": null,
+  "Konya Kulu -Konya Cihanbeyli, Türkiye": null,
+  "Konya Cihanbeyli-Konya Kulu, Türkiye": null,
+  "Adana Köprülü Kavşaığı(Başlangıç)-Ankara Yolu Caddesi-Havalimanı Kavşağı(Bitiş), Türkiye": null,
+  "Konya Cihanbeyli -Konya Merkez, Türkiye": null,
+  "Konya Seydişehir- Konya Merkez, Türkiye": null,
+  "Konya Merkez- Konya Seydişehir, Türkiye": null,
+  "Aksaray Kavşağı-(Başlangıç)-Ankara Yolu Caddesi-Havalimanı Kavşağı(Bitiş), Türkiye": null,
+  "Eskişehir Sivrihisar- Afyonkarahisar Merkez, Türkiye": null,
+  "Afyonkarahisar Sandıklı- Afyonkarahisar Sandıklı, Türkiye": [
+    38.4600592,
+    30.2611381
+  ],
+  "Afyonkarahisar Dazkırı-Afyonkarahisar Sandıklı, Türkiye": null,
+  "Afyonkarahisar Sandıklı- Afyonkarahisar Dazkırı, Türkiye": null,
+  "Pursaklar Bağlantısı- Batıkent Çıkışı, Türkiye": null,
+  "Eryaman- Kayaş, Türkiye": null,
+  "Batıkent Çıkışı- Eryaman Bağlantısı, Türkiye": null,
+  "Afyonkarahisar Merkez, Türkiye": [
+    38.7568597,
+    30.5387044
+  ],
+  "TAŞOCAKLARI YOL AYRIMI (Başlangıç)-D-100 KARAYOLU-ÖZYAPI BETON ÖNÜ (Bitiş), Türkiye": null,
+  "ÖZYAPI BETON ÖNÜ (Başlangıç)-D-100 KARAYOLU- TAŞOCAKLARI YOL AYRIMI(Bitiş), Türkiye": null,
+  "Kütahya Tavşanlı, Türkiye": [
+    39.5378306,
+    29.4947312
+  ],
+  "Bursa Harmancık, Türkiye": [
+    40.2109778,
+    28.9926777
+  ],
+  "Kütahya Merkez, Türkiye": [
+    39.4199106,
+    29.9857886
+  ],
+  "Bölcek kavşağı (Başlangıç)-D-230 DEVLET YOLU-DPÜ Merkez Kampüs (Bitiş), Türkiye": null,
+  "DPÜ Merkez Kampüs (Başlangıç) -D-230 DEVLET YOLU-Bölcek kavşağı (Bitiş), Türkiye": null,
+  "Denizli Serinhisar, Türkiye": [
+    37.6200879,
+    29.2454284
+  ],
+  "Denizli Acıpayam, Türkiye": [
+    37.4279183,
+    29.3512039
+  ],
+  "Uşak Merkez (İzmir Yolu), Türkiye": null,
+  "Manisa Kula, Türkiye": [
+    38.5447511,
+    28.6450384
+  ],
+  "Manisa Ahmetli, Türkiye": [
+    38.5559706,
+    27.951064
+  ],
+  "Manisa Turgutlu, Türkiye": [
+    38.4989167,
+    27.7073843
+  ],
+  "Manisa Merkez, Türkiye": [
+    38.6194604,
+    27.436492
+  ],
+  "Uşak Merkez (Ankara Yolu), Türkiye": null,
+  "Kayaş Karapürçek Bağlantısı-Pursaklar Bağ., Türkiye": null,
+  "Kayaş Karapürçek Bağ.- Kayaş Konya Yolu, Türkiye": null,
+  "Karayolu Denetim İstasyonu Önü- Hasanoğlan, Türkiye": null,
+  "Hasanoğlan- Karayolu Denetim İstasyonu önü, Türkiye": null,
+  "Kırşehir Mucur-Kayseri Merkez, Türkiye": [
+    39.1198152,
+    34.2924879
+  ],
+  "Kırşehir Akpınar- Kırıkkale Keskin, Türkiye": null,
+  "Kırıkkale Keskin-Kırşehir Akpınar, Türkiye": [
+    39.5351717,
+    33.7608339
+  ],
+  "Kayseri Merkez- Kırşehir Mucur, Türkiye": [
+    39.0700056,
+    34.3157003
+  ],
+  "YENİ SANAYİ KAVŞAĞICERİTBEY PETROL TESİSİ(Başlangıç)- D200-14 KARAYOLU-CERİTBEY PETROL TESİSİ(Bitiş), Türkiye": null,
+  "D765-08 31+500km (Başlangıç)-Kırşehir, Türkiye": null,
+  "Kırıkkale İstikameti - D765-08 29+535km (Bitiş), Türkiye": null,
+  "D765-08 25+500km (Başlangıç)-Kırıkkale, Türkiye": null,
+  "Kırşehir İstikameti-D765-08 27+556 (Bitiş), Türkiye": null,
+  "CERİTBEY PETROL TESİSİ(Başlangıç)- D200-14 KARAYOLU-YENİ SANAYİ KAVŞAĞI(Bitiş), Türkiye": null,
+  "D-765 KARAYOLU 08+001 KM (Başlanğıç)-KIRIKKALE, Türkiye": null,
+  "KIRŞEHİR-D-765 KARAYOLU 08+002 KM(Bitiş), Türkiye": null,
+  "KIRŞEHİR-D-765 KARAYOLU 08+004 KM(Bitiş), Türkiye": null,
+  "KIRŞEHİR-D-765 KARAYOLU 08+004 KM(Bitiş)2, Türkiye": null,
+  "KIRŞEHİR-D-765 KARAYOLU 08+005 KM(Bitiş), Türkiye": null,
+  "D-765 KARAYOLU 08+004 KM (Başlanğıç)-KIRIKKALE, Türkiye": null,
+  "KIRŞEHİR-D-765 KARAYOLU 08+006 KM(Bitiş), Türkiye": null,
+  "D-765 KARAYOLU 08+002 KM (Başlanğıç)-KIRIKKALE, Türkiye": null,
+  "D-765 KARAYOLU 08+005 KM (Başlanğıç)-KIRIKKALE, Türkiye": null,
+  "D-765 KARAYOLU 08+0013 KM (Başlanğıç)-KIRŞEHİR, Türkiye": null,
+  "KIRIKKALE-D-765 KARAYOLU 08+011 KM(Bitiş), Türkiye": null,
+  "Ordu Gülyalı, Türkiye": [
+    40.9670354,
+    38.0880685
+  ],
+  "Giresun Merkez, Türkiye": [
+    40.9174453,
+    38.3847864
+  ],
+  "Trabzon Beşikdüzü, Türkiye": [
+    41.0732507,
+    39.1835426
+  ],
+  "Trabzon Akçaabat, Türkiye": [
+    41.0067758,
+    39.6112937
+  ],
+  "Samsun Çarşamba, Türkiye": [
+    41.2045458,
+    36.7176648
+  ],
+  "Samsun Terme, Türkiye": [
+    41.20946,
+    36.9720476
+  ],
+  "Eğit.Araşt. Hast. Kavşağı  (Başlangıç)- İLKADIM BULVARI-Uğur Okulları Önü  (Bitiş), Türkiye": null,
+  "Eğit.Araşt. Hast. Kavşağı  (Başlangıç)- İLKADIM BULVARI-Koçtaş  Önü (Bitiş), Türkiye": null,
+  "Eğit.Araşt. Hast. Kavşağı  (Başlangıç)- İLKADIM BULVARI-Lovelet AVM Önü (Bitiş), Türkiye": null,
+  "DOĞANCI (Başlangıç)-GİRESUN TRABZON YÖNÜ -ŞİŞMANOĞLU CAMİİ (Bitiş), Türkiye": null,
+  "DOĞANCI (Başlangıç)-GİRESUN TRABZON YÖNÜ -YÜZBAŞIOĞLU APT.  (Bitiş), Türkiye": null,
+  "DOĞANCI (Başlangıç)-GİRESUN TRABZON YÖNÜ -VELİOĞLU MAKAS  (Bitiş), Türkiye": null,
+  "ŞİŞMANOĞLU CAMİİ (Başlangıç-TRABZON GİRESUN-DOĞANCI (Bitiş), Türkiye": null,
+  "ŞİŞMANOĞLU CAMİİ (Başlangıç-TRABZON GİRESUN-VELİOĞLU MAKAS (Bitiş), Türkiye": null,
+  "VELİOĞLU MAKAS TÜNEL GİRİŞ (Başlangıç) -TRABZON GİRESUN-DOĞANCI (Bitiş), Türkiye": null,
+  "VELİOĞLU MAKAS  GİRİŞ (Başlangıç) -TRABZON GİRESUN-ŞİŞMANOĞLU CAMİİ(Bitiş), Türkiye": null,
+  "YAKAMOZ BALIK (Başlangıç)-TRABZON GİRESUN -DOĞANCI MEVKİİ (Bitiş), Türkiye": null,
+  "GİRESUN İSTİKAMETİ GİRİŞ-GİRESUN ORDU-GİRESUN İSTİKAMETİ ÇIKIŞ, Türkiye": null,
+  "ORDU İSTİKAMETİ GİRİŞ-GİRESUN ORDU-ORDU İSTİKAMETİ ÇIKIŞ, Türkiye": null,
+  "Dutlukır  Kavşağı(Başlangıç)-Antalya Çevre Yolu Caddesi-Hatıp Kavşağı Kavşağı(Bitiş), Türkiye": null,
+  "Hatıp Kavşağı Kavşağı(Başlangıç)-Antalya Çevre Yolu Caddesi-Dutlukır  Kavşağı(Bitiş), Türkiye": null,
+  "Alaaddin Kap Kavşağı(Başlangıç)-Adana Çevre  Caddesi- Kanal Kavşağı(Bitiş), Türkiye": null,
+  "Alaaddin Kap Kavşağı(Başlangıç)-Adana Çevre  Caddesi- KÜÇÜKKUMPÖPRÜ Kavşağı(Bitiş), Türkiye": null,
+  "KÜÇÜKKUMPÖPRÜ Kavşağı(Başlangıç)-Adana Çevre  Caddesi-  Ereğli Kavşağı(Bitiş), Türkiye": null,
+  "Şehir Hastanesi Kavşağı(Başlangıç)-Adana Çevre  Caddesi- Ereğli Kavşağı(Bitiş), Türkiye": null,
+  "Antalya Manavgat, Türkiye": [
+    36.7655736,
+    31.4128388
+  ],
+  "Leodikya Kavşağı (Başlangıç)-Denizli-Aydın Çevre Yolu-Zorlu Kavşağı (Bitiş), Türkiye": null,
+  "Zorlu Kavşağı(Başlangıç)-Denizli-Aydın Çevre Yolu- Leodikya Kavşağı (Bitiş), Türkiye": null,
+  "Manisa Alaşehir, Türkiye": [
+    38.3417829,
+    28.5331129
+  ],
+  "Denizli Buldan, Türkiye": [
+    38.1453527,
+    28.7246485
+  ],
+  "Afyonkarahisar Merkez- Afyonkarahisar Çay, Türkiye": null,
+  "Afyonkarahisar Çay- Afyonkarahisar Merkez, Türkiye": null,
+  "Konya Seydişehir, Türkiye": [
+    37.4239112,
+    31.8445127
+  ],
+  "Konya Beyşehir- Konya Seydişehir, Türkiye": [
+    37.6387815,
+    31.9407116
+  ],
+  "Kütahya Altıntaş, Türkiye": [
+    39.1090247,
+    30.1371297
+  ],
+  "Çanakkale Ezine, Türkiye": [
+    39.78699,
+    26.3368315
+  ],
+  "Çanakkale Merkez, Türkiye": [
+    40.146271,
+    26.4028892
+  ],
+  "HASTANE KAVŞAĞI ÇIKIŞ(Başlangıç)-ÇANAKKALE YOLU-18 MART HATİME ANA ULU CAMİİ MEVKİİ(Bitiş), Türkiye": null,
+  "KOÇTAŞ MEVKİİ(Başlangıç)-ÇANAKKALE YOLU-18 MART HATİME ANA ULU CAMİİ MEVKİİ(Bitiş), Türkiye": null,
+  "DARDANEL FABRİKA MEVKİİ (Başlangıç)-ÇANAKKALE YOLU-KOÇTAŞ MEVKİİ(Bitiş), Türkiye": null,
+  "Aksaray Sultanhanı-Aksaray Merkez, Türkiye": [
+    38.2803944,
+    33.7127469
+  ],
+  "Nevşehir Merkez-Aksaray Merkez, Türkiye": [
+    38.5899519,
+    34.6696513
+  ],
+  "Konya Merkez -Aksaray Sultanhanı, Türkiye": [
+    38.2803944,
+    33.7127469
+  ],
+  "Aksaray Merkez-Aksaray Sultanhanı, Türkiye": [
+    38.2803944,
+    33.7127469
+  ],
+  "Nevşehir Avanos- Kayseri Merkez (Ç.Y), Türkiye": null,
+  "Nevşehir Avanos- Kayseri Merkez (A.Y), Türkiye": null,
+  "Nevşehir Ürgüp-Kayseri (A.Y), Türkiye": null,
+  "Aksaray Sultanhanı-Konya Merkez, Türkiye": [
+    38.3127004,
+    33.80097
+  ],
+  "Tümosan Kavşağı-(Başlangıç)-Aksaray Çevre Yolu Caddesi-Organize Kavşağı(Bitiş), Türkiye": null,
+  "Organize Kavşağı-(Başlangıç)-Aksaray Çevre Yolu Caddesi-Tümosan Kavşağı(Bitiş), Türkiye": null,
+  "Aksaray Merkez- Nevşehir Merkez, Türkiye": [
+    38.4589407,
+    34.1700118
+  ],
+  "Kayseri Merkez (Ç.Y)-Nevşehir Avanos, Türkiye": null,
+  "Kayseri Merkez (A.Y)-Nevşehir Avanos, Türkiye": [
+    38.704558,
+    34.8363658
+  ],
+  "Kayseri (G.Y)- Nevşehir Ürgüp, Türkiye": null,
+  "Kayseri (A.Y)- Nevşehir Ürgüp, Türkiye": [
+    38.7100606,
+    34.8940482
+  ],
+  "Sakarya Pamukova– Sakarya Merkez, Türkiye": null,
+  "Sakarya Merkez-Sakarya Pamukova, Türkiye": null,
+  "Denizli Tavas, Türkiye": [
+    37.5648599,
+    29.0647502
+  ],
+  "Denizli Kale, Türkiye": [
+    37.764608,
+    29.0999259
+  ],
+  "Muğla Merkez- Denizli Kale, Türkiye": [
+    37.3349514,
+    28.7237295
+  ],
+  "Muğla Merkez, Türkiye": [
+    37.2178776,
+    28.3645937
+  ],
+  "Kırıkkale Merkez- Kırıkkale Balışeyh, Türkiye": [
+    39.8580379,
+    33.6666889
+  ],
+  "Çorum Sungurlu- Çorum Sungurlu, Türkiye": [
+    40.1571818,
+    34.3443314
+  ],
+  "Çorum Sungurlu, Türkiye": [
+    40.1535889,
+    34.3287996
+  ],
+  "Kırıkkale Delice- Çorum Sungurlu, Türkiye": [
+    40.0673954,
+    34.1017145
+  ],
+  "Kırıkkale Balışeyh -Kırıkkale Merkez, Türkiye": [
+    39.8580379,
+    33.6666889
+  ],
+  "Kırıkkale Karakeçili-Kırıkkale Bahşılı, Türkiye": null,
+  "Kırıkkale Delice-Kırıkkale Balışeyh, Türkiye": [
+    39.8579452,
+    33.6656828
+  ],
+  "Kırıkkale Balışeyh -Kırıkkale Delice, Türkiye": [
+    39.8580379,
+    33.6666889
+  ],
+  "Çorum Sungurlu -Kırıkkale Delice, Türkiye": [
+    40.0673954,
+    34.1017145
+  ],
+  "Kırıkkale Bahşılı -Kırıkkale Karakeçili, Türkiye": null,
+  "Konya Kulu, Türkiye": [
+    39.2706612,
+    32.9693285
+  ],
+  "Kırıkkale Karakeçili, Türkiye": null,
+  "Kırıkkale Karakeçili- Konya Kulu, Türkiye": null,
+  "D-200 KARAYOLU 14+021 KM (Başlangıç)-KIRIKKALE  SAMSUN Yolu-D-200 KARAYOLU 14+023 KM (Bitiş), Türkiye": null,
+  "D-200 KARAYOLU 14+021 KM (Başlangıç)-KIRIKKALE  SAMSUN Yolu-D-200 KARAYOLU 14+023 KM (Bitiş)2, Türkiye": null,
+  "D-200 KARAYOLU 14+023 KM (Başlangıç)-SAMSUN KIRIKKALE  Yolu-D-200 KARAYOLU 14+022 KM (Bitiş)2, Türkiye": null,
+  "D-200 KARAYOLU 14+023 KM (Başlangıç)2-SAMSUN KIRIKKALE  Yolu-D-200 KARAYOLU 14+022 KM (Bitiş)2, Türkiye": null,
+  "Paşaköy Kavşağı (Başlangıç)-D, Türkiye": null,
+  "100-12 DEVLET YOLU (Ankara Yönü)-Çamkent Kavşağı (Bitiş), Türkiye": null,
+  "Çamkent Kavşağı (Başlangıç)-D, Türkiye": null,
+  "100-12 DEVLET YOLU (Ankara Yönü)-Paşaköy Kavşağı(Bitiş), Türkiye": null,
+  "Edirne Keşan-Çanakkale Gelibolu, Türkiye": [
+    40.7137178,
+    26.7576726
+  ],
+  "Çanakkale Gelibolu-Edirne Keşan, Türkiye": [
+    40.7137178,
+    26.7576726
+  ],
+  "MALKARA YOLU (BAŞLANGIÇ)- D-110, Türkiye": null,
+  "02 KARAYOLU-GELİBOLUYOLU ( BİTİŞ ), Türkiye": null,
+  "UZUNKÖPRÜ YOLU (BAŞLANGIÇ)- D-110, Türkiye": null,
+  "02 KARAYOLU-İPSALA YOLU ( BİTİŞ ), Türkiye": null,
+  "02 KARAYOLU-GELİBOLU YOLU ( BİTİŞ ), Türkiye": null,
+  "İPSALA YOLU (BAŞLANGIÇ)- D-110, Türkiye": null,
+  "02 KARAYOLU-UZUNKÖPRÜ YOLU ( BİTİŞ ), Türkiye": null,
+  "GELİBOLU YOLU (BAŞLANGIÇ)- D-110, Türkiye": null,
+  "02 KARAYOLU-MALKARA YOLU ( BİTİŞ ), Türkiye": null,
+  "Balıkesir Bandırma-Balıkesir Susurluk, Türkiye": [
+    40.097375,
+    28.1454329
+  ],
+  "(İstanbul-Samsun İstikameti), Türkiye": null,
+  "(Samsun-İstanbul İstikameti), Türkiye": null,
+  "Çankırı Çerkeş, Türkiye": null,
+  "Bolu Gerede, Türkiye": [
+    40.6094118,
+    32.2537056
+  ],
+  "Kastamonu Tosya- Çankırı Ilgaz (Samsun Yolu), Türkiye": null,
+  "Çankırı Ilgaz (Samsun Yolu), Türkiye": [
+    40.9056709,
+    33.6465065
+  ],
+  "Kastamonu Tosya, Türkiye": [
+    41.0690235,
+    33.973708
+  ],
+  "ORG.SANAYİ  (Başlangıç)-SAMSUN ÇORUM Yolu, Türkiye": null,
+  "OTOGAR(Bitiş), Türkiye": null,
+  "İSTANBUL-SAMSUN YÖNÜ(BAŞLANGIÇ)-D, Türkiye": null,
+  "100-14 KARAYOLU-İSTANBUL-SAMSUN YÖNÜ (BİTİŞ), Türkiye": null,
+  "SAMSUN -İSTANBUL YÖNÜ(BAŞLANGIÇ)-D, Türkiye": null,
+  "100-14 KARAYOLU-SAMSUN-İSTANBUL YÖNÜ (BİTİŞ), Türkiye": null,
+  "Ilgaz Giriş Kavşağı(Başlangıç)-D 100, Türkiye": null,
+  "14 Devlet Yolu-Doğruyol Tesisleri Mevkii(Bitiş), Türkiye": null,
+  "Doğruyol Tesisleri Mevkii(Başlangıç)-D 100, Türkiye": null,
+  "14 Devlet Yolu-Ilgaz Giriş Kavşağı(Bitiş), Türkiye": null,
+  "HASAN ARKI (DOĞANAY KURUYEMİŞ ÖNÜ) (Başlangıç)-D100 KARAYOLU- HİSAR TUĞLA KARŞISI (GAVURÇAYI KÖPRÜSÜ SONU) (Bitiş), Türkiye": null,
+  "HİSAR TUĞLA KARŞISI (GAVURÇAYI KÖPRÜSÜ SONU)(Başlangıç)-D100 KARAYOLU- HASAN ARKI (DOĞANAY KURUYEMİŞ ÖNÜ) (Bitiş), Türkiye": null,
+  "Marsan Kavşağı (Başlangıç)-Adana Çevre  Caddesi-KANAL Kavşağı (Bitiş), Türkiye": null,
+  "Isparta Şarkikaraağaç, Türkiye": null,
+  "Kütahya Dumlupınar, Türkiye": [
+    39.4040334,
+    30.0345958
+  ],
+  "Antalya Gazipaşa- Antalya Alanya, Türkiye": [
+    36.3266689,
+    32.2634362
+  ],
+  "Antalya Alanya, Türkiye": [
+    36.8823336,
+    30.718511
+  ],
+  "Antalya Gazipaşa, Türkiye": [
+    36.1563674,
+    32.4470049
+  ],
+  "Antalya Alanya-Antalya Manavgat, Türkiye": [
+    36.7844082,
+    31.5471557
+  ],
+  "Mersin Silifke- Mersin Aydıncık, Türkiye": null,
+  "Mersin Aydıncık- Mersin Silifke, Türkiye": null,
+  "Doğancı Kavşağı  (Başlangıç)-D, Türkiye": null,
+  "160-06 DEVLET YOLU-Seyit Kavşağı(Bitiş), Türkiye": null,
+  "Seyit Kavşağı (Başlangıç)-D, Türkiye": null,
+  "160-06 DEVLET YOLU-Doğancı Kavşağı (Bitiş), Türkiye": null,
+  "Formula Yolu Ortalama Hız Tespit-1 Giriş-İstanbul Park Bulvarı TUZLA-Formula Yolu Ortalama Hız Tespit-1 Çıkış, Türkiye": null,
+  "Formula Yolu Ortalama Hız Tespit-2 Giriş-İstanbul Park Bulvarı TUZLA-Formula Yolu Ortalama Hız Tespit-2 Çıkış, Türkiye": null,
+  "Tekirdağ Marmara Ereğlisi-İstanbul Silivri, Türkiye": null,
+  "Tekirdağ Malkara-Tekirdağ Merkez, Türkiye": [
+    40.9431449,
+    27.4454426
+  ],
+  "Tekirdağ Marmara Ereğlisi-Tekirdağ Merkez, Türkiye": null,
+  "Tekirdağ Merkez-Tekirdağ Malkara, Türkiye": [
+    40.9431449,
+    27.4454426
+  ],
+  "Tekirdağ Merkez, Türkiye": [
+    40.9771735,
+    27.5038548
+  ],
+  "Tekirdağ Marmaraereğlisi, Türkiye": [
+    41.0082996,
+    27.8490919
+  ],
+  "İstanbul Silivri, Türkiye": [
+    41.1653543,
+    28.1636296
+  ],
+  "HUZUR EVİ (Başlangıç)-D650-11-PAZAR YERİ(Bitiş), Türkiye": null,
+  "PAZAR YERİ(Başlangıç)-D650-11-HUZUR EVİ (Bitiş), Türkiye": null,
+  "Niğde Merkez-Kayseri Yeşilhisar, Türkiye": null,
+  "Kayseri Yeşilhisar- Niğde Merkez, Türkiye": null,
+  "Kayaş Konya Yolu- Nato Yolu Çevre Yolu, Türkiye": null,
+  "Nato Yolu- İncek Ayrımı, Türkiye": null,
+  "İncek- Kayaş Bağlantısı, Türkiye": null,
+  "Kayseri Pınarbaşı- Kayseri Merkez, Türkiye": null,
+  "Kayseri Merkez- Kayseri Pınarbaşı, Türkiye": null,
+  "D/100-19 48km (Başlangıç)-AMASYA ERZURUM YOLU, Türkiye": null,
+  "D/100-19 49km (Bitiş), Türkiye": null,
+  "D/100-19 47km (Başlangıç)-AMASYA ERZURUM YOLU, Türkiye": null,
+  "D/100-19 45km (Bitiş), Türkiye": null,
+  "Erbaa Başaran Market Deposu önü (Başlangıç)-D-100 Devlet Yolu-Niksar istikameti Çıkışı (Bitiş), Türkiye": null,
+  "TAŞOVA İST.  (Başlangıç)-D-100 Devlet Yolu-TAŞOVA İST.  (Bitiş), Türkiye": null,
+  "Huzur Turizm Önü(Başlangıç)-D200, Türkiye": null,
+  "20 ANKARA YILDIZELİ-Tokat kavsağı  (Bitiş), Türkiye": null,
+  "Yozgat Boğazlıyan- Kayseri Merkez, Türkiye": null,
+  "Galericiler sitesi Önü( Başlangıç)-D200-17 Devlet Karayolu-Özbulutlar Tarım Önü (Bitiş), Türkiye": null,
+  "Mükremin Kavşağı ( Başlangıç)-D200-17 Devlet Karayolu-Toksoy Fidancılık Önü (Bitiş), Türkiye": null,
+  "Yozgat Sarıkaya-Yozgat Boğazlıyan, Türkiye": [
+    39.4198063,
+    35.3549696
+  ],
+  "Kayseri Merkez- Yozgat Boğazlıyan, Türkiye": [
+    39.5219359,
+    35.0335597
+  ],
+  "Yozgat Boğazlıyan    -Yozgat Sarıkaya, Türkiye": [
+    39.4198063,
+    35.3549696
+  ],
+  "Vedat Gökbulut Cad. Kavşağı Başlangıç-NEVZAT ŞENER BULVARI-Koçer Yapı Önü Bitiş, Türkiye": null,
+  "Malatya Merkez-Malatya Yazıhan, Türkiye": null,
+  "Malatya Yazıhan-Malatya Merkez, Türkiye": null,
+  "Ceza Evi Kavşagı (Başlangıç)-GÖLBAŞI KAHRAMANMARAŞ YOLU-Total Petrol (Bitiş), Türkiye": null,
+  "Total Petrol (Başlangıç)-GÖLBAŞI KAHRAMANMARAŞ YOLU-Ceza Evi KavşagıBitiş), Türkiye": null,
+  "Kıyı Restaurant Önü (Başlangıç)-GÖLBAŞI KAHRAMANMARAŞ YOLU-Mehmet Ayrık İlk Okul Önü(Bitiş), Türkiye": null,
+  "Mehmet Ayrık İlk Okul Önü (Başlangıç)-GÖLBAŞI KAHRAMANMARAŞ YOLU-Kıyı Restaurant Önü(Bitiş), Türkiye": null,
+  "Sivas Merkez-Sivas Kangal, Türkiye": null,
+  "Sivas Kangal-Sivas Merkez, Türkiye": null,
+  "DLH Kavşağı  (Başlangıç)- ATATÜRK BULVARI -Kenan ŞARA Köprüsü (Bitiş), Türkiye": null,
+  "Karayolları Kavşağı  (Başlangıç)- ATATÜRK BULVARI -DLH Kavşağ (Bitiş), Türkiye": null
+}

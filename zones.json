@@ -1,0 +1,1478 @@
+{
+  "version": "2026-04-15",
+  "generated_at": "2026-04-15T08:41:52+00:00",
+  "source": "yolradar.com + Nominatim (OSM) geocoding",
+  "count": 147,
+  "zones": [
+    {
+      "id": "yr-denizli-cardak-afyonkarahisar-dazkr",
+      "name": "Denizli Çardak – Afyonkarahisar Dazkırı",
+      "entryLat": 37.7860348,
+      "entryLon": 29.6973403,
+      "exitLat": 37.932836,
+      "exitLon": 29.8641593,
+      "lengthMeters": 17000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-bozkurt-denizli-merkez",
+      "name": "Denizli Bozkurt – Denizli Merkez",
+      "entryLat": 37.8302076,
+      "entryLon": 29.6101895,
+      "exitLat": 37.7951909,
+      "exitLon": 29.0811056,
+      "lengthMeters": 30000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-cardak-denizli-bozkurt",
+      "name": "Denizli Çardak – Denizli Bozkurt",
+      "entryLat": 37.7860348,
+      "entryLon": 29.6973403,
+      "exitLat": 37.8302076,
+      "exitLon": 29.6101895,
+      "lengthMeters": 10000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-bozkurt-denizli-cardak",
+      "name": "Denizli Bozkurt – Denizli Çardak",
+      "entryLat": 37.8302076,
+      "entryLon": 29.6101895,
+      "exitLat": 37.7860348,
+      "exitLon": 29.6973403,
+      "lengthMeters": 10000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-afyonkarahisar-dazkr-denizli-cardak",
+      "name": "Afyonkarahisar Dazkırı – Denizli Çardak",
+      "entryLat": 37.932836,
+      "entryLon": 29.8641593,
+      "exitLat": 37.7860348,
+      "exitLon": 29.6973403,
+      "lengthMeters": 18000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-merkez-denizli-bozkurt",
+      "name": "Denizli Merkez – Denizli Bozkurt",
+      "entryLat": 37.7951909,
+      "entryLon": 29.0811056,
+      "exitLat": 37.8302076,
+      "exitLon": 29.6101895,
+      "lengthMeters": 29000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-ilgn-konya-aksehir",
+      "name": "Konya Ilgın- Konya Akşehir",
+      "entryLat": 38.2962892,
+      "entryLon": 31.6788608,
+      "exitLat": 38.2962892,
+      "exitLon": 31.6788608,
+      "lengthMeters": 33000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-aksehir-konya-ilgn",
+      "name": "Konya Akşehir – Konya Ilgın",
+      "entryLat": 38.3305083,
+      "entryLon": 31.5459591,
+      "exitLat": 38.290171,
+      "exitLon": 31.8002178,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-afyonkarahisar-cay-konya-aksehir",
+      "name": "Afyonkarahisar Çay - Konya Akşehir",
+      "entryLat": 38.5986072,
+      "entryLon": 31.0098638,
+      "exitLat": 38.3305083,
+      "exitLon": 31.5459591,
+      "lengthMeters": 38000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-kadnhan-konya-ilgn",
+      "name": "Konya Kadınhanı – Konya Ilgın",
+      "entryLat": 38.2463229,
+      "entryLon": 32.1795559,
+      "exitLat": 38.290171,
+      "exitLon": 31.8002178,
+      "lengthMeters": 16000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-karapnar-konya-eregli",
+      "name": "Konya Karapınar- Konya Ereğli",
+      "entryLat": 37.6560318,
+      "entryLon": 33.7357945,
+      "exitLat": 37.6560318,
+      "exitLon": 33.7357945,
+      "lengthMeters": 39000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-ilgn-konya-kadnhan",
+      "name": "Konya Ilgın- Konya Kadınhanı",
+      "entryLat": 38.2704221,
+      "entryLon": 32.0916362,
+      "exitLat": 38.2704221,
+      "exitLon": 32.0916362,
+      "lengthMeters": 16000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-karatay-konya-karapnar",
+      "name": "Konya Karatay – Konya Karapınar",
+      "entryLat": 37.9043133,
+      "entryLon": 32.531169,
+      "exitLat": 37.7048261,
+      "exitLon": 33.5375529,
+      "lengthMeters": 78000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-eregli-konya-karapnar",
+      "name": "Konya Ereğli- Konya Karapınar",
+      "entryLat": 37.6560318,
+      "entryLon": 33.7357945,
+      "exitLat": 37.6560318,
+      "exitLon": 33.7357945,
+      "lengthMeters": 39000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-karapnar-konya-karatay",
+      "name": "Konya Karapınar- Konya Karatay",
+      "entryLat": 37.7113996,
+      "entryLon": 33.3105442,
+      "exitLat": 37.7113996,
+      "exitLon": 33.3105442,
+      "lengthMeters": 78000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-eskisehir-sivrihisar-ankara-merkez",
+      "name": "Eskişehir Sivrihisar – Ankara Merkez",
+      "entryLat": 39.7757728,
+      "entryLon": 30.5200592,
+      "exitLat": 38.4616169,
+      "exitLon": 33.9168719,
+      "lengthMeters": 114000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-bursa-kestel-bursa-inegol",
+      "name": "Bursa Kestel / Bursa İnegöl",
+      "entryLat": 40.1998922,
+      "entryLon": 29.2120659,
+      "exitLat": 40.0912947,
+      "exitLon": 29.5154453,
+      "lengthMeters": 18000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-bursa-inegol-bursa-kestel",
+      "name": "Bursa İnegöl / Bursa Kestel",
+      "entryLat": 40.0912947,
+      "entryLon": 29.5154453,
+      "exitLat": 40.1998922,
+      "exitLon": 29.2120659,
+      "lengthMeters": 18000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-bursa-karacabey-bursa-nilufer",
+      "name": "Bursa Karacabey / Bursa Nilüfer",
+      "entryLat": 40.0859236,
+      "entryLon": 28.358749,
+      "exitLat": 40.2377192,
+      "exitLon": 28.9215662,
+      "lengthMeters": 36000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-eskisehir-merkez-eskisehir-sivrihisar",
+      "name": "Eskişehir Merkez / Eskişehir Sivrihisar",
+      "entryLat": 40.143438,
+      "entryLon": 29.9788076,
+      "exitLat": 39.7757728,
+      "exitLon": 30.5200592,
+      "lengthMeters": 71000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-ankara-merkez-eskisehir-sivrihisar",
+      "name": "Ankara Merkez – Eskişehir Sivrihisar",
+      "entryLat": 38.4616169,
+      "entryLon": 33.9168719,
+      "exitLat": 39.7757728,
+      "exitLon": 30.5200592,
+      "lengthMeters": 98000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-bursa-inegol-eskisehir-merkez",
+      "name": "Bursa İnegöl - Eskişehir Merkez",
+      "entryLat": 40.0912947,
+      "entryLon": 29.5154453,
+      "exitLat": 40.143438,
+      "exitLon": 29.9788076,
+      "lengthMeters": 88000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-eskisehir-sivrihisar-eskisehir-merkez",
+      "name": "Eskişehir Sivrihisar / Eskişehir Merkez",
+      "entryLat": 39.7757728,
+      "entryLon": 30.5200592,
+      "exitLat": 40.143438,
+      "exitLon": 29.9788076,
+      "lengthMeters": 87000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-bursa-karacabey-balkesir-bandrma",
+      "name": "Bursa Karacabey / Balıkesir Bandırma",
+      "entryLat": 40.0859236,
+      "entryLon": 28.358749,
+      "exitLat": 40.3501147,
+      "exitLon": 27.9777024,
+      "lengthMeters": 28000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-antalya-merkez-antalya-serik",
+      "name": "Antalya Merkez - Antalya Serik",
+      "entryLat": 36.3683332,
+      "entryLon": 30.2863391,
+      "exitLat": 36.9171308,
+      "exitLon": 31.0664333,
+      "lengthMeters": 13000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-antalya-serik-antalya-merkez",
+      "name": "Antalya Serik - Antalya Merkez",
+      "entryLat": 36.9171308,
+      "entryLon": 31.0664333,
+      "exitLat": 36.3683332,
+      "exitLon": 30.2863391,
+      "lengthMeters": 13000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-merkez-konya-beysehir",
+      "name": "Konya Merkez / Konya Beyşehir",
+      "entryLat": 38.2922361,
+      "entryLon": 33.7672339,
+      "exitLat": 37.6948325,
+      "exitLon": 31.7163533,
+      "lengthMeters": 77000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-karaman-kazmkarabekir-karaman-merkez",
+      "name": "Karaman Kâzımkarabekir-Karaman Merkez",
+      "entryLat": 37.2411893,
+      "entryLon": 32.9458254,
+      "exitLat": 37.2411893,
+      "exitLon": 32.9458254,
+      "lengthMeters": 69000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-karaman-ayranc-karaman-merkez",
+      "name": "Karaman Ayrancı- Karaman Merkez",
+      "entryLat": 37.3085741,
+      "entryLon": 33.5411983,
+      "exitLat": 37.3085741,
+      "exitLon": 33.5411983,
+      "lengthMeters": 12000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-karaman-merkez-karaman-kazmkarabekir",
+      "name": "Karaman Merkez- Karaman Kâzımkarabekir",
+      "entryLat": 37.2411893,
+      "entryLon": 32.9458254,
+      "exitLat": 37.2411893,
+      "exitLon": 32.9458254,
+      "lengthMeters": 39000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-karaman-merkez-karaman-ayranc",
+      "name": "Karaman Merkez-Karaman Ayrancı",
+      "entryLat": 37.3085741,
+      "entryLon": 33.5411983,
+      "exitLat": 37.3085741,
+      "exitLon": 33.5411983,
+      "lengthMeters": 39000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-mugla-yatagan-aydn-merkez",
+      "name": "Muğla Yatağan – Aydın Merkez",
+      "entryLat": 37.287958,
+      "entryLon": 27.8010451,
+      "exitLat": 37.8471749,
+      "exitLon": 27.8337255,
+      "lengthMeters": 66000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-aydn-merkez-mugla-yatagan",
+      "name": "Aydın Merkez – Muğla Yatağan",
+      "entryLat": 37.8471749,
+      "entryLon": 27.8337255,
+      "exitLat": 37.287958,
+      "exitLon": 27.8010451,
+      "lengthMeters": 66000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-nigde-merkez-nevsehir-derinkuyu",
+      "name": "Niğde Merkez-Nevşehir Derinkuyu",
+      "entryLat": 38.2596545,
+      "entryLon": 34.7695749,
+      "exitLat": 38.2596545,
+      "exitLon": 34.7695749,
+      "lengthMeters": 41000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-nevsehir-derinkuyu-nigde-merkez",
+      "name": "Nevşehir Derinkuyu-Niğde Merkez",
+      "entryLat": 38.2596545,
+      "entryLon": 34.7695749,
+      "exitLat": 38.2596545,
+      "exitLon": 34.7695749,
+      "lengthMeters": 41000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-nevsehir-merkez-nevsehir-derinkuyu",
+      "name": "Nevşehir Merkez-Nevşehir Derinkuyu",
+      "entryLat": 38.2596545,
+      "entryLon": 34.7695749,
+      "exitLat": 38.2596545,
+      "exitLon": 34.7695749,
+      "lengthMeters": 23000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-nevsehir-derinkuyu-nevsehir-merkez",
+      "name": "Nevşehir Derinkuyu-Nevşehir Merkez",
+      "entryLat": 38.4242744,
+      "entryLon": 34.7378433,
+      "exitLat": 38.4242744,
+      "exitLon": 34.7378433,
+      "lengthMeters": 23000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-corum-merkez-corum-merkez",
+      "name": "Çorum Merkez – Çorum Merkez",
+      "entryLat": 40.5499106,
+      "entryLon": 34.9537344,
+      "exitLat": 40.5499106,
+      "exitLon": 34.9537344,
+      "lengthMeters": 11000,
+      "speedLimitKph": 82.0
+    },
+    {
+      "id": "yr-samsun-kavak-samsun-merkez",
+      "name": "Samsun Kavak/Samsun Merkez",
+      "entryLat": 41.0904437,
+      "entryLon": 36.0505283,
+      "exitLat": 40.5701986,
+      "exitLon": 34.9884635,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-samsun-19-mays-samsun-merkez",
+      "name": "Samsun 19 Mayıs / Samsun Merkez",
+      "entryLat": 41.4947674,
+      "entryLon": 36.0870342,
+      "exitLat": 40.5701986,
+      "exitLon": 34.9884635,
+      "lengthMeters": 16000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-samsun-merkez-samsun-19-mays",
+      "name": "Samsun Merkez / Samsun 19 Mayıs",
+      "entryLat": 40.5701986,
+      "entryLon": 34.9884635,
+      "exitLat": 41.4947674,
+      "exitLon": 36.0870342,
+      "lengthMeters": 16000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-samsun-havza-samsun-kavak",
+      "name": "Samsun Havza/Samsun Kavak",
+      "entryLat": 40.9825304,
+      "entryLon": 35.6908146,
+      "exitLat": 41.0904437,
+      "exitLon": 36.0505283,
+      "lengthMeters": 27000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-samsun-merkez-samsun-kavak",
+      "name": "Samsun Merkez/Samsun Kavak",
+      "entryLat": 40.5701986,
+      "entryLon": 34.9884635,
+      "exitLat": 41.0904437,
+      "exitLon": 36.0505283,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-samsun-kavak-samsun-havza",
+      "name": "Samsun Kavak/Samsun Havza",
+      "entryLat": 41.0904437,
+      "entryLon": 36.0505283,
+      "exitLat": 40.9825304,
+      "exitLon": 35.6908146,
+      "lengthMeters": 27000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-erzincan-refahiye-sivas-imranl",
+      "name": "Erzincan Refahiye- Sivas İmranlı",
+      "entryLat": 39.8663487,
+      "entryLon": 38.4237654,
+      "exitLat": 39.8663487,
+      "exitLon": 38.4237654,
+      "lengthMeters": 69000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-sarksla-sivas-sarksla",
+      "name": "Sivas Şarkışla- Sivas Şarkışla",
+      "entryLat": 39.320395,
+      "entryLon": 36.3410021,
+      "exitLat": 39.320395,
+      "exitLon": 36.3410021,
+      "lengthMeters": 4000,
+      "speedLimitKph": 82.0
+    },
+    {
+      "id": "yr-erzincan-merkez-erzincan-refahiye",
+      "name": "Erzincan Merkez – Erzincan Refahiye",
+      "entryLat": 39.7467552,
+      "entryLon": 39.49103,
+      "exitLat": 39.9106368,
+      "exitLon": 38.7692311,
+      "lengthMeters": 57000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-imranl-erzincan-refahiye",
+      "name": "Sivas İmranlı- Erzincan Refahiye",
+      "entryLat": 39.8663487,
+      "entryLon": 38.4237654,
+      "exitLat": 39.8663487,
+      "exitLon": 38.4237654,
+      "lengthMeters": 70000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-erzincan-refahiye-erzincan-merkez",
+      "name": "Erzincan Refahiye – Erzincan Merkez",
+      "entryLat": 39.9106368,
+      "entryLon": 38.7692311,
+      "exitLat": 39.7467552,
+      "exitLon": 39.49103,
+      "lengthMeters": 56000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-zara-sivas-imranl",
+      "name": "Sivas Zara – Sivas İmranlı",
+      "entryLat": 39.8982682,
+      "entryLon": 37.7571216,
+      "exitLat": 39.8715625,
+      "exitLon": 38.1375925,
+      "lengthMeters": 36000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-merkez-erzincan-sivas-hafik",
+      "name": "Sivas Merkez (Erzincan) - Sivas Hafik",
+      "entryLat": 39.7888825,
+      "entryLon": 39.395421,
+      "exitLat": 39.82906,
+      "exitLon": 37.2634698,
+      "lengthMeters": 21000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kayseri-merkez-sivas-gemerek",
+      "name": "Kayseri Merkez - Sivas Gemerek",
+      "entryLat": 37.956903,
+      "entryLon": 34.6999904,
+      "exitLat": 39.2283702,
+      "exitLon": 36.1244724,
+      "lengthMeters": 63000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-sarksla-sivas-gemerek",
+      "name": "Sivas Şarkışla -Sivas Gemerek",
+      "entryLat": 39.263508,
+      "entryLon": 36.1738344,
+      "exitLat": 39.263508,
+      "exitLon": 36.1738344,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-merkez-kayseri-sivas-merkez-erzincan",
+      "name": "Sivas Merkez (Kayseri) - Sivas Merkez (Erzincan)",
+      "entryLat": 39.720774,
+      "entryLon": 37.012874,
+      "exitLat": 39.7888825,
+      "exitLon": 39.395421,
+      "lengthMeters": 10000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-merkez-erzincan-sivas-merkez-kayseri",
+      "name": "Sivas Merkez (Erzincan) – Sivas Merkez (Kayseri)",
+      "entryLat": 39.7888825,
+      "entryLon": 39.395421,
+      "exitLat": 39.720774,
+      "exitLon": 37.012874,
+      "lengthMeters": 10000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-zara-sivas-hafik",
+      "name": "Sivas Zara – Sivas Hafik",
+      "entryLat": 39.8982682,
+      "entryLon": 37.7571216,
+      "exitLat": 39.82906,
+      "exitLon": 37.2634698,
+      "lengthMeters": 38000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-hafik-sivas-merkez-erzincan",
+      "name": "Sivas Hafik-Sivas Merkez (Erzincan)",
+      "entryLat": 39.8345206,
+      "entryLon": 37.3477181,
+      "exitLat": 39.8345206,
+      "exitLon": 37.3477181,
+      "lengthMeters": 21000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-sarksla-sivas-merkez",
+      "name": "Sivas Şarkışla- Sivas Merkez",
+      "entryLat": 39.4366337,
+      "entryLon": 36.5779513,
+      "exitLat": 39.4366337,
+      "exitLon": 36.5779513,
+      "lengthMeters": 77000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-gemerek-sivas-sarksla",
+      "name": "Sivas Gemerek- Sivas Şarkışla",
+      "entryLat": 39.263508,
+      "entryLon": 36.1738344,
+      "exitLat": 39.263508,
+      "exitLon": 36.1738344,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-merkez-sivas-sarksla",
+      "name": "Sivas Merkez-Sivas Şarkışla",
+      "entryLat": 39.4366337,
+      "entryLon": 36.5779513,
+      "exitLat": 39.4366337,
+      "exitLon": 36.5779513,
+      "lengthMeters": 77000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-imranl-sivas-zara",
+      "name": "Sivas İmranlı – Sivas Zara",
+      "entryLat": 39.8715625,
+      "entryLon": 38.1375925,
+      "exitLat": 39.8982682,
+      "exitLon": 37.7571216,
+      "lengthMeters": 36000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-sivas-hafik-sivas-zara",
+      "name": "Sivas Hafik – Sivas Zara",
+      "entryLat": 39.82906,
+      "entryLon": 37.2634698,
+      "exitLat": 39.8982682,
+      "exitLon": 37.7571216,
+      "lengthMeters": 38000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-cihanbeyli-konya-cihanbeyli",
+      "name": "Konya Cihanbeyli-Konya Cihanbeyli",
+      "entryLat": 38.870224,
+      "entryLon": 32.7910768,
+      "exitLat": 38.870224,
+      "exitLon": 32.7910768,
+      "lengthMeters": 14000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-afyonkarahisar-sandkl-afyonkarahisar-sandkl",
+      "name": "Afyonkarahisar Sandıklı- Afyonkarahisar Sandıklı",
+      "entryLat": 38.4600592,
+      "entryLon": 30.2611381,
+      "exitLat": 38.4600592,
+      "exitLon": 30.2611381,
+      "lengthMeters": 7000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-afyonkarahisar-merkez-ankara-merkez",
+      "name": "Afyonkarahisar Merkez - Ankara Merkez",
+      "entryLat": 38.7568597,
+      "entryLon": 30.5387044,
+      "exitLat": 38.4616169,
+      "exitLon": 33.9168719,
+      "lengthMeters": 226000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kutahya-tavsanl-bursa-harmanck",
+      "name": "Kütahya Tavşanlı / Bursa Harmancık",
+      "entryLat": 39.5378306,
+      "entryLon": 29.4947312,
+      "exitLat": 40.2109778,
+      "exitLon": 28.9926777,
+      "lengthMeters": 30000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kutahya-merkez-eskisehir-merkez",
+      "name": "Kütahya Merkez - Eskişehir Merkez",
+      "entryLat": 39.4199106,
+      "entryLon": 29.9857886,
+      "exitLat": 40.143438,
+      "exitLon": 29.9788076,
+      "lengthMeters": 51000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kutahya-tavsanl-kutahya-merkez",
+      "name": "Kütahya Tavşanlı / Kütahya Merkez",
+      "entryLat": 39.5378306,
+      "entryLon": 29.4947312,
+      "exitLat": 39.4199106,
+      "exitLon": 29.9857886,
+      "lengthMeters": 36000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kutahya-merkez-kutahya-tavsanl",
+      "name": "Kütahya Merkez / Kütahya Tavşanlı",
+      "entryLat": 39.4199106,
+      "entryLon": 29.9857886,
+      "exitLat": 39.5378306,
+      "exitLon": 29.4947312,
+      "lengthMeters": 36000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-eskisehir-merkez-kutahya-merkez",
+      "name": "Eskişehir Merkez - Kütahya Merkez",
+      "entryLat": 40.143438,
+      "entryLon": 29.9788076,
+      "exitLat": 39.4199106,
+      "exitLon": 29.9857886,
+      "lengthMeters": 52000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-bursa-harmanck-kutahya-tavsanl",
+      "name": "Bursa Harmancık / Kütahya Tavşanlı",
+      "entryLat": 40.2109778,
+      "entryLon": 28.9926777,
+      "exitLat": 39.5378306,
+      "exitLon": 29.4947312,
+      "lengthMeters": 30000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-serinhisar-denizli-acpayam",
+      "name": "Denizli Serinhisar – Denizli Acıpayam",
+      "entryLat": 37.6200879,
+      "entryLon": 29.2454284,
+      "exitLat": 37.4279183,
+      "exitLon": 29.3512039,
+      "lengthMeters": 22000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-acpayam-denizli-serinhisar",
+      "name": "Denizli Acıpayam – Denizli Serinhisar",
+      "entryLat": 37.4279183,
+      "entryLon": 29.3512039,
+      "exitLat": 37.6200879,
+      "exitLon": 29.2454284,
+      "lengthMeters": 22000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-manisa-ahmetli-manisa-kula",
+      "name": "Manisa Ahmetli – Manisa Kula",
+      "entryLat": 38.5559706,
+      "entryLon": 27.951064,
+      "exitLat": 38.5447511,
+      "exitLon": 28.6450384,
+      "lengthMeters": 63000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-manisa-kula-manisa-ahmetli",
+      "name": "Manisa Kula – Manisa Ahmetli",
+      "entryLat": 38.5447511,
+      "entryLon": 28.6450384,
+      "exitLat": 38.5559706,
+      "exitLon": 27.951064,
+      "lengthMeters": 64000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-manisa-turgutlu-manisa-ahmetli",
+      "name": "Manisa Turgutlu – Manisa Ahmetli",
+      "entryLat": 38.4989167,
+      "entryLon": 27.7073843,
+      "exitLat": 38.5559706,
+      "exitLon": 27.951064,
+      "lengthMeters": 17000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-manisa-ahmetli-manisa-turgutlu",
+      "name": "Manisa Ahmetli – Manisa Turgutlu",
+      "entryLat": 38.5559706,
+      "entryLon": 27.951064,
+      "exitLat": 38.4989167,
+      "exitLon": 27.7073843,
+      "lengthMeters": 17000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-manisa-merkez-manisa-turgutlu",
+      "name": "Manisa Merkez – Manisa Turgutlu",
+      "entryLat": 38.6194604,
+      "entryLon": 27.436492,
+      "exitLat": 38.4989167,
+      "exitLon": 27.7073843,
+      "lengthMeters": 23000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-manisa-turgutlu-manisa-merkez",
+      "name": "Manisa Turgutlu – Manisa Merkez",
+      "entryLat": 38.4989167,
+      "entryLon": 27.7073843,
+      "exitLat": 38.6194604,
+      "exitLon": 27.436492,
+      "lengthMeters": 23000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-krsehir-mucur-kayseri-merkez",
+      "name": "Kırşehir Mucur-Kayseri Merkez",
+      "entryLat": 39.1198152,
+      "entryLon": 34.2924879,
+      "exitLat": 39.1198152,
+      "exitLon": 34.2924879,
+      "lengthMeters": 88000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-krkkale-keskin-krsehir-akpnar",
+      "name": "Kırıkkale Keskin-Kırşehir Akpınar",
+      "entryLat": 39.5351717,
+      "entryLon": 33.7608339,
+      "exitLat": 39.5351717,
+      "exitLon": 33.7608339,
+      "lengthMeters": 42000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kayseri-merkez-krsehir-mucur",
+      "name": "Kayseri Merkez- Kırşehir Mucur",
+      "entryLat": 39.0700056,
+      "entryLon": 34.3157003,
+      "exitLat": 39.0700056,
+      "exitLon": 34.3157003,
+      "lengthMeters": 88000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-ordu-gulyal-giresun-merkez",
+      "name": "Ordu Gülyalı/Giresun Merkez",
+      "entryLat": 40.9670354,
+      "entryLon": 38.0880685,
+      "exitLat": 40.9174453,
+      "exitLon": 38.3847864,
+      "lengthMeters": 19000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-trabzon-besikduzu-giresun-merkez",
+      "name": "Trabzon Beşikdüzü/Giresun Merkez",
+      "entryLat": 41.0732507,
+      "entryLon": 39.1835426,
+      "exitLat": 40.9174453,
+      "exitLon": 38.3847864,
+      "lengthMeters": 74000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-giresun-merkez-trabzon-besikduzu",
+      "name": "Giresun Merkez/Trabzon Beşikdüzü",
+      "entryLat": 40.9174453,
+      "entryLon": 38.3847864,
+      "exitLat": 41.0732507,
+      "exitLon": 39.1835426,
+      "lengthMeters": 74000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-trabzon-besikduzu-trabzon-akcaabat",
+      "name": "Trabzon Beşikdüzü/Trabzon Akçaabat",
+      "entryLat": 41.0732507,
+      "entryLon": 39.1835426,
+      "exitLat": 41.0067758,
+      "exitLon": 39.6112937,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-ordu-gulyal-ordu-gulyal",
+      "name": "Ordu Gülyalı/Ordu Gülyalı",
+      "entryLat": 40.9670354,
+      "entryLon": 38.0880685,
+      "exitLat": 40.9670354,
+      "exitLon": 38.0880685,
+      "lengthMeters": 6000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-samsun-carsamba-samsun-merkez",
+      "name": "Samsun Çarşamba/Samsun Merkez",
+      "entryLat": 41.2045458,
+      "entryLon": 36.7176648,
+      "exitLat": 40.5701986,
+      "exitLon": 34.9884635,
+      "lengthMeters": 18000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-samsun-merkez-samsun-carsamba",
+      "name": "Samsun Merkez/Samsun Çarşamba",
+      "entryLat": 40.5701986,
+      "entryLon": 34.9884635,
+      "exitLat": 41.2045458,
+      "exitLon": 36.7176648,
+      "lengthMeters": 18000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-giresun-merkez-ordu-gulyal",
+      "name": "Giresun Merkez/Ordu Gülyalı",
+      "entryLat": 40.9174453,
+      "entryLon": 38.3847864,
+      "exitLat": 40.9670354,
+      "exitLon": 38.0880685,
+      "lengthMeters": 19000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-samsun-carsamba-samsun-terme",
+      "name": "Samsun Çarşamba/Samsun Terme",
+      "entryLat": 41.2045458,
+      "entryLon": 36.7176648,
+      "exitLat": 41.20946,
+      "exitLon": 36.9720476,
+      "lengthMeters": 16000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-samsun-terme-samsun-carsamba",
+      "name": "Samsun Terme/Samsun Çarşamba",
+      "entryLat": 41.20946,
+      "entryLon": 36.9720476,
+      "exitLat": 41.2045458,
+      "exitLon": 36.7176648,
+      "lengthMeters": 16000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-trabzon-akcaabat-trabzon-besikduzu",
+      "name": "Trabzon Akçaabat/Trabzon Beşikdüzü",
+      "entryLat": 41.0067758,
+      "entryLon": 39.6112937,
+      "exitLat": 41.0732507,
+      "exitLon": 39.1835426,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-antalya-manavgat-antalya-manavgat",
+      "name": "Antalya Manavgat - Antalya Manavgat",
+      "entryLat": 36.7655736,
+      "entryLon": 31.4128388,
+      "exitLat": 36.7655736,
+      "exitLon": 31.4128388,
+      "lengthMeters": 9000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-manisa-alasehir-denizli-buldan",
+      "name": "Manisa Alaşehir – Denizli Buldan",
+      "entryLat": 38.3417829,
+      "entryLon": 28.5331129,
+      "exitLat": 38.1453527,
+      "exitLon": 28.7246485,
+      "lengthMeters": 56000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-merkez-denizli-buldan",
+      "name": "Denizli Merkez – Denizli Buldan",
+      "entryLat": 37.7951909,
+      "entryLon": 29.0811056,
+      "exitLat": 38.1453527,
+      "exitLon": 28.7246485,
+      "lengthMeters": 27000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-buldan-denizli-merkez",
+      "name": "Denizli Buldan – Denizli Merkez",
+      "entryLat": 38.1453527,
+      "entryLon": 28.7246485,
+      "exitLat": 37.7951909,
+      "exitLon": 29.0811056,
+      "lengthMeters": 27000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-buldan-manisa-alasehir",
+      "name": "Denizli Buldan – Manisa Alaşehir",
+      "entryLat": 38.1453527,
+      "entryLon": 28.7246485,
+      "exitLat": 38.3417829,
+      "exitLon": 28.5331129,
+      "lengthMeters": 56000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-seydisehir-konya-beysehir",
+      "name": "Konya Seydişehir / Konya Beyşehir",
+      "entryLat": 37.4239112,
+      "entryLon": 31.8445127,
+      "exitLat": 37.6948325,
+      "exitLon": 31.7163533,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-beysehir-konya-seydisehir",
+      "name": "Konya Beyşehir- Konya Seydişehir",
+      "entryLat": 37.6387815,
+      "entryLon": 31.9407116,
+      "exitLat": 37.6387815,
+      "exitLon": 31.9407116,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kutahya-altntas-kutahya-merkez",
+      "name": "Kütahya Altıntaş / Kütahya Merkez",
+      "entryLat": 39.1090247,
+      "entryLon": 30.1371297,
+      "exitLat": 39.4199106,
+      "exitLon": 29.9857886,
+      "lengthMeters": 38000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kutahya-merkez-kutahya-altntas",
+      "name": "Kütahya Merkez / Kütahya Altıntaş",
+      "entryLat": 39.4199106,
+      "entryLon": 29.9857886,
+      "exitLat": 39.1090247,
+      "exitLon": 30.1371297,
+      "lengthMeters": 38000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-canakkale-ezine-canakkale-merkez",
+      "name": "Çanakkale Ezine / Çanakkale Merkez",
+      "entryLat": 39.78699,
+      "entryLon": 26.3368315,
+      "exitLat": 40.146271,
+      "exitLon": 26.4028892,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-canakkale-merkez-canakkale-ezine",
+      "name": "Çanakkale Merkez / Çanakkale Ezine",
+      "entryLat": 40.146271,
+      "entryLon": 26.4028892,
+      "exitLat": 39.78699,
+      "exitLon": 26.3368315,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-aksaray-sultanhan-aksaray-merkez",
+      "name": "Aksaray Sultanhanı-Aksaray Merkez",
+      "entryLat": 38.2803944,
+      "entryLon": 33.7127469,
+      "exitLat": 38.2803944,
+      "exitLon": 33.7127469,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-nevsehir-merkez-aksaray-merkez",
+      "name": "Nevşehir Merkez-Aksaray Merkez",
+      "entryLat": 38.5899519,
+      "entryLon": 34.6696513,
+      "exitLat": 38.5899519,
+      "exitLon": 34.6696513,
+      "lengthMeters": 61000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-konya-merkez-aksaray-sultanhan",
+      "name": "Konya Merkez -Aksaray Sultanhanı",
+      "entryLat": 38.2803944,
+      "entryLon": 33.7127469,
+      "exitLat": 38.2803944,
+      "exitLon": 33.7127469,
+      "lengthMeters": 84000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-aksaray-merkez-aksaray-sultanhan",
+      "name": "Aksaray Merkez-Aksaray Sultanhanı",
+      "entryLat": 38.2803944,
+      "entryLon": 33.7127469,
+      "exitLat": 38.2803944,
+      "exitLon": 33.7127469,
+      "lengthMeters": 35000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-aksaray-sultanhan-konya-merkez",
+      "name": "Aksaray Sultanhanı-Konya Merkez",
+      "entryLat": 38.3127004,
+      "entryLon": 33.80097,
+      "exitLat": 38.3127004,
+      "exitLon": 33.80097,
+      "lengthMeters": 84000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-aksaray-merkez-nevsehir-merkez",
+      "name": "Aksaray Merkez- Nevşehir Merkez",
+      "entryLat": 38.4589407,
+      "entryLon": 34.1700118,
+      "exitLat": 38.4589407,
+      "exitLon": 34.1700118,
+      "lengthMeters": 61000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kayseri-merkez-a-y-nevsehir-avanos",
+      "name": "Kayseri Merkez (A.Y)-Nevşehir Avanos",
+      "entryLat": 38.704558,
+      "entryLon": 34.8363658,
+      "exitLat": 38.704558,
+      "exitLon": 34.8363658,
+      "lengthMeters": 45000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kayseri-a-y-nevsehir-urgup",
+      "name": "Kayseri (A.Y)- Nevşehir Ürgüp",
+      "entryLat": 38.7100606,
+      "entryLon": 34.8940482,
+      "exitLat": 38.7100606,
+      "exitLon": 34.8940482,
+      "lengthMeters": 45000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-tavas-denizli-serinhisar",
+      "name": "Denizli Tavas – Denizli Serinhisar",
+      "entryLat": 37.5648599,
+      "entryLon": 29.0647502,
+      "exitLat": 37.6200879,
+      "exitLon": 29.2454284,
+      "lengthMeters": 22000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-kale-denizli-tavas",
+      "name": "Denizli Kale – Denizli Tavas",
+      "entryLat": 37.764608,
+      "entryLon": 29.0999259,
+      "exitLat": 37.5648599,
+      "exitLon": 29.0647502,
+      "lengthMeters": 27000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-serinhisar-denizli-tavas",
+      "name": "Denizli Serinhisar – Denizli Tavas",
+      "entryLat": 37.6200879,
+      "entryLon": 29.2454284,
+      "exitLat": 37.5648599,
+      "exitLon": 29.0647502,
+      "lengthMeters": 22000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-tavas-denizli-kale",
+      "name": "Denizli Tavas – Denizli Kale",
+      "entryLat": 37.5648599,
+      "entryLon": 29.0647502,
+      "exitLat": 37.764608,
+      "exitLon": 29.0999259,
+      "lengthMeters": 27000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-mugla-merkez-denizli-kale",
+      "name": "Muğla Merkez- Denizli Kale",
+      "entryLat": 37.3349514,
+      "entryLon": 28.7237295,
+      "exitLat": 37.3349514,
+      "exitLon": 28.7237295,
+      "lengthMeters": 60000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-mugla-merkez-mugla-yatagan",
+      "name": "Muğla Merkez – Muğla Yatağan",
+      "entryLat": 37.2178776,
+      "entryLon": 28.3645937,
+      "exitLat": 37.287958,
+      "exitLon": 27.8010451,
+      "lengthMeters": 21000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-mugla-yatagan-mugla-merkez",
+      "name": "Muğla Yatağan – Muğla Merkez",
+      "entryLat": 37.287958,
+      "entryLon": 27.8010451,
+      "exitLat": 37.2178776,
+      "exitLon": 28.3645937,
+      "lengthMeters": 21000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-denizli-kale-mugla-merkez",
+      "name": "Denizli Kale – Muğla Merkez",
+      "entryLat": 37.764608,
+      "entryLon": 29.0999259,
+      "exitLat": 37.2178776,
+      "exitLon": 28.3645937,
+      "lengthMeters": 61000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-krkkale-merkez-krkkale-balseyh",
+      "name": "Kırıkkale Merkez- Kırıkkale Balışeyh",
+      "entryLat": 39.8580379,
+      "entryLon": 33.6666889,
+      "exitLat": 39.8580379,
+      "exitLon": 33.6666889,
+      "lengthMeters": 12000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-corum-sungurlu-corum-sungurlu",
+      "name": "Çorum Sungurlu- Çorum Sungurlu",
+      "entryLat": 40.1571818,
+      "entryLon": 34.3443314,
+      "exitLat": 40.1571818,
+      "exitLon": 34.3443314,
+      "lengthMeters": 6000,
+      "speedLimitKph": 82.0
+    },
+    {
+      "id": "yr-corum-sungurlu-corum-merkez",
+      "name": "Çorum Sungurlu – Çorum Merkez",
+      "entryLat": 40.1535889,
+      "entryLon": 34.3287996,
+      "exitLat": 40.5499106,
+      "exitLon": 34.9537344,
+      "lengthMeters": 61000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-corum-merkez-corum-sungurlu",
+      "name": "Çorum Merkez - Çorum Sungurlu",
+      "entryLat": 40.5499106,
+      "entryLon": 34.9537344,
+      "exitLat": 40.1535889,
+      "exitLon": 34.3287996,
+      "lengthMeters": 61000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-krkkale-delice-corum-sungurlu",
+      "name": "Kırıkkale Delice- Çorum Sungurlu",
+      "entryLat": 40.0673954,
+      "entryLon": 34.1017145,
+      "exitLat": 40.0673954,
+      "exitLon": 34.1017145,
+      "lengthMeters": 40000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-krkkale-balseyh-krkkale-merkez",
+      "name": "Kırıkkale Balışeyh -Kırıkkale Merkez",
+      "entryLat": 39.8580379,
+      "entryLon": 33.6666889,
+      "exitLat": 39.8580379,
+      "exitLon": 33.6666889,
+      "lengthMeters": 12000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-krkkale-delice-krkkale-balseyh",
+      "name": "Kırıkkale Delice-Kırıkkale Balışeyh",
+      "entryLat": 39.8579452,
+      "entryLon": 33.6656828,
+      "exitLat": 39.8579452,
+      "exitLon": 33.6656828,
+      "lengthMeters": 26000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-krkkale-balseyh-krkkale-delice",
+      "name": "Kırıkkale Balışeyh -Kırıkkale Delice",
+      "entryLat": 39.8580379,
+      "entryLon": 33.6666889,
+      "exitLat": 39.8580379,
+      "exitLon": 33.6666889,
+      "lengthMeters": 26000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-corum-sungurlu-krkkale-delice",
+      "name": "Çorum Sungurlu -Kırıkkale Delice",
+      "entryLat": 40.0673954,
+      "entryLon": 34.1017145,
+      "exitLat": 40.0673954,
+      "exitLon": 34.1017145,
+      "lengthMeters": 40000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-edirne-kesan-canakkale-gelibolu",
+      "name": "Edirne Keşan-Çanakkale Gelibolu",
+      "entryLat": 40.7137178,
+      "entryLon": 26.7576726,
+      "exitLat": 40.7137178,
+      "exitLon": 26.7576726,
+      "lengthMeters": 60000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-canakkale-gelibolu-edirne-kesan",
+      "name": "Çanakkale Gelibolu-Edirne Keşan",
+      "entryLat": 40.7137178,
+      "entryLon": 26.7576726,
+      "exitLat": 40.7137178,
+      "exitLon": 26.7576726,
+      "lengthMeters": 60000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-balkesir-bandrma-balkesir-susurluk",
+      "name": "Balıkesir Bandırma-Balıkesir Susurluk",
+      "entryLat": 40.097375,
+      "entryLon": 28.1454329,
+      "exitLat": 40.097375,
+      "exitLon": 28.1454329,
+      "lengthMeters": 40000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-cankr-ilgaz-samsun-yolu-kastamonu-tosya",
+      "name": "Çankırı Ilgaz (Samsun Yolu) – Kastamonu Tosya",
+      "entryLat": 40.9056709,
+      "entryLon": 33.6465065,
+      "exitLat": 41.0690235,
+      "exitLon": 33.973708,
+      "lengthMeters": 31000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-bursa-nilufer-bursa-karacabey",
+      "name": "Bursa Nilüfer / Bursa Karacabey",
+      "entryLat": 40.2377192,
+      "entryLon": 28.9215662,
+      "exitLat": 40.0859236,
+      "exitLon": 28.358749,
+      "lengthMeters": 36000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kutahya-dumlupnar-kutahya-altntas",
+      "name": "Kütahya Dumlupınar / Kütahya Altıntaş",
+      "entryLat": 39.4040334,
+      "entryLon": 30.0345958,
+      "exitLat": 39.1090247,
+      "exitLon": 30.1371297,
+      "lengthMeters": 27000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kutahya-altntas-kutahya-dumlupnar",
+      "name": "Kütahya Altıntaş / Kütahya Dumlupınar",
+      "entryLat": 39.1090247,
+      "entryLon": 30.1371297,
+      "exitLat": 39.4040334,
+      "exitLon": 30.0345958,
+      "lengthMeters": 27000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-antalya-gazipasa-antalya-alanya",
+      "name": "Antalya Gazipaşa- Antalya Alanya",
+      "entryLat": 36.3266689,
+      "entryLon": 32.2634362,
+      "exitLat": 36.3266689,
+      "exitLon": 32.2634362,
+      "lengthMeters": 34000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-antalya-manavgat-antalya-alanya",
+      "name": "Antalya Manavgat - Antalya Alanya",
+      "entryLat": 36.7655736,
+      "entryLon": 31.4128388,
+      "exitLat": 36.8823336,
+      "exitLon": 30.718511,
+      "lengthMeters": 50000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-antalya-alanya-antalya-gazipasa",
+      "name": "Antalya Alanya - Antalya Gazipaşa",
+      "entryLat": 36.8823336,
+      "entryLon": 30.718511,
+      "exitLat": 36.1563674,
+      "exitLon": 32.4470049,
+      "lengthMeters": 34000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-antalya-alanya-antalya-manavgat",
+      "name": "Antalya Alanya-Antalya Manavgat",
+      "entryLat": 36.7844082,
+      "entryLon": 31.5471557,
+      "exitLat": 36.7844082,
+      "exitLon": 31.5471557,
+      "lengthMeters": 50000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-tekirdag-malkara-tekirdag-merkez",
+      "name": "Tekirdağ Malkara-Tekirdağ Merkez",
+      "entryLat": 40.9431449,
+      "entryLon": 27.4454426,
+      "exitLat": 40.9431449,
+      "exitLon": 27.4454426,
+      "lengthMeters": 50000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-tekirdag-merkez-tekirdag-malkara",
+      "name": "Tekirdağ Merkez-Tekirdağ Malkara",
+      "entryLat": 40.9431449,
+      "entryLon": 27.4454426,
+      "exitLat": 40.9431449,
+      "exitLon": 27.4454426,
+      "lengthMeters": 50000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-tekirdag-merkez-tekirdag-marmaraereglisi",
+      "name": "Tekirdağ Merkez / Tekirdağ Marmaraereğlisi",
+      "entryLat": 40.9771735,
+      "entryLon": 27.5038548,
+      "exitLat": 41.0082996,
+      "exitLon": 27.8490919,
+      "lengthMeters": 26000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-istanbul-silivri-tekirdag-marmaraereglisi",
+      "name": "İstanbul Silivri / Tekirdağ Marmaraereğlisi",
+      "entryLat": 41.1653543,
+      "entryLon": 28.1636296,
+      "exitLat": 41.0082996,
+      "exitLon": 27.8490919,
+      "lengthMeters": 38000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-yozgat-sarkaya-yozgat-bogazlyan",
+      "name": "Yozgat Sarıkaya-Yozgat Boğazlıyan",
+      "entryLat": 39.4198063,
+      "entryLon": 35.3549696,
+      "exitLat": 39.4198063,
+      "exitLon": 35.3549696,
+      "lengthMeters": 33000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-kayseri-merkez-yozgat-bogazlyan",
+      "name": "Kayseri Merkez- Yozgat Boğazlıyan",
+      "entryLat": 39.5219359,
+      "entryLon": 35.0335597,
+      "exitLat": 39.5219359,
+      "exitLon": 35.0335597,
+      "lengthMeters": 56000,
+      "speedLimitKph": 110.0
+    },
+    {
+      "id": "yr-yozgat-bogazlyan-yozgat-sarkaya",
+      "name": "Yozgat Boğazlıyan    -Yozgat Sarıkaya",
+      "entryLat": 39.4198063,
+      "entryLon": 35.3549696,
+      "exitLat": 39.4198063,
+      "exitLon": 35.3549696,
+      "lengthMeters": 33000,
+      "speedLimitKph": 110.0
+    }
+  ]
+}
