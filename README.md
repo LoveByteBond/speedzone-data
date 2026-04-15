@@ -170,12 +170,3 @@ Git kurulmamış veya PATH'te değil. git-scm.com'dan tekrar kurmayı dene.
 
 ### Nominatim "403 Forbidden" veya "429 Too Many Requests"
 User-Agent'ı fark ettiler veya rate limit'i aştın. `scraper.py` içinde `NOMINATIM_DELAY_SEC` değerini 1.1'den 2.0'a çıkar.
-
----
-
-## Bilmen gereken şeyler
-
-- **Hukuki gri alan**: YolRadar bu veriyi kendi derlediğini söylüyor. Scraper teknik olarak çalışır ama YolRadar'dan cease-and-desist gelirse durdurmak zorunda kalırsın. Düşük risk ama sıfır değil.
-- **Veri kalitesi**: Koridor isimleri "Pursaklar Bağlantısı - Batıkent Çıkışı" gibi. Nominatim bunları her zaman doğru noktaya çözmeyebilir — bazen il merkezine, bazen yanlış konuma kilitlenebilir. İlk `zones.json`'u gözle kontrol et, gözle garip duranları `geocode-cache.json`'dan manuel düzelt ve bir daha `run-scraper.bat` çalıştır.
-- **Kırılganlık**: YolRadar HTML'ini değiştirirse scraper patlar. Ayda bir çalıştırıyorsan farkında olursun, bana hata mesajını yaparsın, fix alırsın.
-- **Sürdürülebilirlik**: Scraper'ı her ay sen çalıştırman lazım. Unutursan veri eskir. İstersen GitHub Actions ile otomatikleştirebiliriz (`.github/workflows/scrape.yml` ile ayda bir kendi kendine çalışır) — ama önce manuel versiyonu bir ay çalıştır, stabilse sonra otomatikleştiririz.
