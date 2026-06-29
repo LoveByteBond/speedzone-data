@@ -1,8 +1,8 @@
 {
- "version": "2026-06-28",
- "generated_at": "2026-06-28T20:16:21+00:00",
+ "version": "2026-06-29",
+ "generated_at": "2026-06-29T05:11:49+00:00",
  "source": "onayli",
- "count": 558,
+ "count": 560,
  "zones": [
   {
    "id": "eds-1225",
@@ -138216,6 +138216,60 @@
     {
      "lat": 40.680719,
      "lon": 35.824175
+    }
+   ]
+  },
+  {
+   "id": "eds-1887",
+   "name": "Helvacı Kavşağı (Başlangıç)- İPEK CADDESİ-Hal Kavşağı (Bitiş)",
+   "provinceHint": "Amasya ",
+   "entryLat": 40.612905,
+   "entryLon": 35.812847,
+   "exitLat": 40.602114,
+   "exitLon": 35.809865,
+   "lengthMeters": 1235,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 40.612905,
+     "lon": 35.812847
+    },
+    {
+     "lat": 40.605335,
+     "lon": 35.811566
+    },
+    {
+     "lat": 40.602114,
+     "lon": 35.809865
+    }
+   ]
+  },
+  {
+   "id": "eds-1888",
+   "name": "Hal Kavşağı(Başlangıç)- İPEK CADDESİ- Helvacı Kavşağı (Bitiş)",
+   "provinceHint": "Amasya ",
+   "entryLat": 40.601969,
+   "entryLon": 35.810079,
+   "exitLat": 40.612895,
+   "exitLon": 35.813047,
+   "lengthMeters": 1250,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 40.601969,
+     "lon": 35.810079
+    },
+    {
+     "lat": 40.604247,
+     "lon": 35.811399
+    },
+    {
+     "lat": 40.605236,
+     "lon": 35.81175
+    },
+    {
+     "lat": 40.612895,
+     "lon": 35.813047
     }
    ]
   },
