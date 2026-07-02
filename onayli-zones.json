@@ -1,8 +1,8 @@
 {
- "version": "2026-07-01",
- "generated_at": "2026-07-01T16:14:44+00:00",
+ "version": "2026-07-02",
+ "generated_at": "2026-07-02T05:37:08+00:00",
  "source": "onayli",
- "count": 591,
+ "count": 597,
  "zones": [
   {
    "id": "eds-1225",
@@ -149346,6 +149346,72 @@
    ]
   },
   {
+   "id": "eds-1916",
+   "name": "KERVAN MEVKİİ (BAŞLANGIÇ)-D-100-11 KARAYOLU-SOĞANCI MEVKİİ (BİTİŞ)",
+   "provinceHint": "Düzce",
+   "entryLat": 40.828414,
+   "entryLon": 31.188712,
+   "exitLat": 40.835212,
+   "exitLon": 31.176217,
+   "lengthMeters": 2868,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 40.828414,
+     "lon": 31.188712
+    },
+    {
+     "lat": 40.824819,
+     "lon": 31.19562
+    },
+    {
+     "lat": 40.824529,
+     "lon": 31.196246
+    },
+    {
+     "lat": 40.824563,
+     "lon": 31.196413
+    },
+    {
+     "lat": 40.824737,
+     "lon": 31.196391
+    },
+    {
+     "lat": 40.833706,
+     "lon": 31.178445
+    },
+    {
+     "lat": 40.835212,
+     "lon": 31.176217
+    }
+   ]
+  },
+  {
+   "id": "eds-1917",
+   "name": "SOĞANCI MEVKİİ (BAŞLANGIÇ)-D-100-11 KARAYOLU-KERVAN MEVKİİ(BİTİŞ)",
+   "provinceHint": "Düzce",
+   "entryLat": 40.835093,
+   "entryLon": 31.175989,
+   "exitLat": 40.828414,
+   "exitLon": 31.188712,
+   "lengthMeters": 1320,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 40.835093,
+     "lon": 31.175989
+    },
+    {
+     "lat": 40.833421,
+     "lon": 31.178479
+    },
+    {
+     "lat": 40.828414,
+     "lon": 31.188712
+    }
+   ]
+  },
+  {
    "id": "eds-1920",
    "name": "DÜZCE AKÇAKOCA İSTİKAMETİ (BAŞLANGIÇ)-D-655 KARAYOLU- DÜZCE AKÇAKOCA İSTİKAMETİ(BİTİŞ)",
    "provinceHint": "Düzce",
@@ -149432,6 +149498,136 @@
     {
      "lat": 40.901078,
      "lon": 31.148545
+    }
+   ]
+  },
+  {
+   "id": "eds-1922",
+   "name": "KERVAN KAVŞAĞI(FİSKO)(BAŞLANGIÇ)-ESKİ BOLU CADDESİ-ADLİYE ÖNÜ(BİTİŞ)",
+   "provinceHint": "Düzce",
+   "entryLat": 40.834715,
+   "entryLon": 31.173513,
+   "exitLat": 40.828439,
+   "exitLon": 31.185736,
+   "lengthMeters": 1727,
+   "speedLimitKph": 50.0,
+   "geometry": [
+    {
+     "lat": 40.834715,
+     "lon": 31.173513
+    },
+    {
+     "lat": 40.834851,
+     "lon": 31.173239
+    },
+    {
+     "lat": 40.835802,
+     "lon": 31.173747
+    },
+    {
+     "lat": 40.835781,
+     "lon": 31.174119
+    },
+    {
+     "lat": 40.836153,
+     "lon": 31.174258
+    },
+    {
+     "lat": 40.835985,
+     "lon": 31.175197
+    },
+    {
+     "lat": 40.834882,
+     "lon": 31.176455
+    },
+    {
+     "lat": 40.833771,
+     "lon": 31.178107
+    },
+    {
+     "lat": 40.82927,
+     "lon": 31.186995
+    },
+    {
+     "lat": 40.829157,
+     "lon": 31.18693
+    },
+    {
+     "lat": 40.829212,
+     "lon": 31.186822
+    },
+    {
+     "lat": 40.828277,
+     "lon": 31.186052
+    },
+    {
+     "lat": 40.828439,
+     "lon": 31.185736
+    }
+   ]
+  },
+  {
+   "id": "eds-1923",
+   "name": "ADLİYE ÖNÜ(BAŞLANGIÇ)-ESKİ BOLU CADDESİ-KERVAN KAVŞAĞI(FİSKO)(BİTİŞ)",
+   "provinceHint": "Düzce",
+   "entryLat": 40.834715,
+   "entryLon": 31.173513,
+   "exitLat": 40.828439,
+   "exitLon": 31.185736,
+   "lengthMeters": 1727,
+   "speedLimitKph": 50.0,
+   "geometry": [
+    {
+     "lat": 40.834715,
+     "lon": 31.173513
+    },
+    {
+     "lat": 40.834851,
+     "lon": 31.173239
+    },
+    {
+     "lat": 40.835802,
+     "lon": 31.173747
+    },
+    {
+     "lat": 40.835781,
+     "lon": 31.174119
+    },
+    {
+     "lat": 40.836153,
+     "lon": 31.174258
+    },
+    {
+     "lat": 40.835985,
+     "lon": 31.175197
+    },
+    {
+     "lat": 40.834882,
+     "lon": 31.176455
+    },
+    {
+     "lat": 40.833771,
+     "lon": 31.178107
+    },
+    {
+     "lat": 40.82927,
+     "lon": 31.186995
+    },
+    {
+     "lat": 40.829157,
+     "lon": 31.18693
+    },
+    {
+     "lat": 40.829212,
+     "lon": 31.186822
+    },
+    {
+     "lat": 40.828277,
+     "lon": 31.186052
+    },
+    {
+     "lat": 40.828439,
+     "lon": 31.185736
     }
    ]
   },
@@ -149564,6 +149760,64 @@
     {
      "lat": 40.84828,
      "lon": 31.1379
+    }
+   ]
+  },
+  {
+   "id": "eds-1928",
+   "name": "KALICI KONUTLAR İSTİKAMETİ (BAŞLANGIÇ)-KALICI KONUTLAR BAĞLANTI YOLU-KALICI KONUTLAR İSTİKAMETİ(BİTİŞ)",
+   "provinceHint": "Düzce",
+   "entryLat": 40.853374,
+   "entryLon": 31.202526,
+   "exitLat": 40.86058,
+   "exitLon": 31.211931,
+   "lengthMeters": 1128,
+   "speedLimitKph": 50.0,
+   "geometry": [
+    {
+     "lat": 40.853374,
+     "lon": 31.202526
+    },
+    {
+     "lat": 40.854991,
+     "lon": 31.205022
+    },
+    {
+     "lat": 40.857062,
+     "lon": 31.207858
+    },
+    {
+     "lat": 40.86058,
+     "lon": 31.211931
+    }
+   ]
+  },
+  {
+   "id": "eds-1929",
+   "name": "ŞEHİR MERKEZİ İSTİKAMETİ (BAŞLANGIÇ)-KALICI KONUTLAR BAĞLANTI YOLU-ŞEHİR MERKEZİ GİRİŞ (BİTİŞ)",
+   "provinceHint": "Düzce",
+   "entryLat": 40.86072,
+   "entryLon": 31.21177,
+   "exitLat": 40.85354,
+   "exitLon": 31.202467,
+   "lengthMeters": 1121,
+   "speedLimitKph": 50.0,
+   "geometry": [
+    {
+     "lat": 40.86072,
+     "lon": 31.21177
+    },
+    {
+     "lat": 40.857176,
+     "lon": 31.207757
+    },
+    {
+     "lat": 40.855297,
+     "lon": 31.205197
+    },
+    {
+     "lat": 40.85354,
+     "lon": 31.202467
     }
    ]
   },
