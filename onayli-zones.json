@@ -1,8 +1,8 @@
 {
  "version": "2026-07-03",
- "generated_at": "2026-07-03T07:33:28+00:00",
+ "generated_at": "2026-07-03T11:28:20+00:00",
  "source": "onayli",
- "count": 610,
+ "count": 613,
  "zones": [
   {
    "id": "eds-1225",
@@ -151077,6 +151077,51 @@
    ]
   },
   {
+   "id": "eds-1975",
+   "name": "Uzunçayır Altunizade Ortalama Hız Tespit Giriş-O1 Bağlantı Yolu Uzunçayır-Altunizade İstikameti ÜSKÜDAR-Uzunçayır Altunizade Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.003512,
+   "entryLon": 29.059458,
+   "exitLat": 41.019152,
+   "exitLon": 29.05117,
+   "lengthMeters": 2124,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.003512,
+     "lon": 29.059458
+    },
+    {
+     "lat": 41.006946,
+     "lon": 29.061142
+    },
+    {
+     "lat": 41.008523,
+     "lon": 29.061665
+    },
+    {
+     "lat": 41.009975,
+     "lon": 29.06174
+    },
+    {
+     "lat": 41.01136,
+     "lon": 29.061191
+    },
+    {
+     "lat": 41.013033,
+     "lon": 29.059688
+    },
+    {
+     "lat": 41.017473,
+     "lon": 29.053341
+    },
+    {
+     "lat": 41.019152,
+     "lon": 29.05117
+    }
+   ]
+  },
+  {
    "id": "eds-1983",
    "name": "Şile Yolu Ortalama Hız Tespit-1 Giriş-Şile Yolu Ümraniye-Çekmeköy istikameti-Şile Yolu Ortalama Hız Tespit-1 Çıkış",
    "provinceHint": "İstanbul",
@@ -151255,6 +151300,64 @@
     {
      "lat": 41.031614,
      "lon": 29.135884
+    }
+   ]
+  },
+  {
+   "id": "eds-1994",
+   "name": "Sarıyer Çayırbaşı Tünel Ortalama Hız Tespit Giriş-Sarıyer-Çayırbaşı Tünel Ortalama Hız Tespit SARIYER-Sarıyer Çayırbaşı Tünel Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.157799,
+   "entryLon": 29.026604,
+   "exitLat": 41.173496,
+   "exitLon": 29.038807,
+   "lengthMeters": 2024,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 41.157799,
+     "lon": 29.026604
+    },
+    {
+     "lat": 41.158517,
+     "lon": 29.027032
+    },
+    {
+     "lat": 41.169135,
+     "lon": 29.035531
+    },
+    {
+     "lat": 41.173496,
+     "lon": 29.038807
+    }
+   ]
+  },
+  {
+   "id": "eds-1995",
+   "name": "Çayırbaşı Sarıyer Tünel Ortalama Hız Tespit Giriş-Çayırbaşı-Sarıyer Tünel Ortalama Hız Tespit SARIYER-Çayırbaşı Sarıyer Tünel Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.173489,
+   "entryLon": 29.038248,
+   "exitLat": 41.157708,
+   "exitLon": 29.026362,
+   "lengthMeters": 2019,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 41.173489,
+     "lon": 29.038248
+    },
+    {
+     "lat": 41.169515,
+     "lon": 29.035382
+    },
+    {
+     "lat": 41.158931,
+     "lon": 29.027067
+    },
+    {
+     "lat": 41.157708,
+     "lon": 29.026362
     }
    ]
   },
