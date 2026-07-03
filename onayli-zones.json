@@ -1,8 +1,8 @@
 {
- "version": "2026-07-02",
- "generated_at": "2026-07-02T05:37:08+00:00",
+ "version": "2026-07-03",
+ "generated_at": "2026-07-03T07:33:28+00:00",
  "source": "onayli",
- "count": 597,
+ "count": 610,
  "zones": [
   {
    "id": "eds-1225",
@@ -63893,6 +63893,271 @@
     {
      "lat": 37.88968,
      "lon": 30.421649
+    },
+    {
+     "lat": 37.890031,
+     "lon": 30.420435
+    },
+    {
+     "lat": 37.891651,
+     "lon": 30.407688
+    },
+    {
+     "lat": 37.892411,
+     "lon": 30.405588
+    },
+    {
+     "lat": 37.893714,
+     "lon": 30.403609
+    },
+    {
+     "lat": 37.894076,
+     "lon": 30.402921
+    },
+    {
+     "lat": 37.894372,
+     "lon": 30.401981
+    },
+    {
+     "lat": 37.894511,
+     "lon": 30.401299
+    },
+    {
+     "lat": 37.894674,
+     "lon": 30.398114
+    },
+    {
+     "lat": 37.894873,
+     "lon": 30.396532
+    },
+    {
+     "lat": 37.897666,
+     "lon": 30.383688
+    },
+    {
+     "lat": 37.89796,
+     "lon": 30.377738
+    },
+    {
+     "lat": 37.898707,
+     "lon": 30.349415
+    },
+    {
+     "lat": 37.89945,
+     "lon": 30.342825
+    },
+    {
+     "lat": 37.900825,
+     "lon": 30.3357
+    },
+    {
+     "lat": 37.902195,
+     "lon": 30.329547
+    },
+    {
+     "lat": 37.903203,
+     "lon": 30.326779
+    },
+    {
+     "lat": 37.911368,
+     "lon": 30.310191
+    },
+    {
+     "lat": 37.912628,
+     "lon": 30.306949
+    },
+    {
+     "lat": 37.913457,
+     "lon": 30.305794
+    },
+    {
+     "lat": 37.914089,
+     "lon": 30.305332
+    },
+    {
+     "lat": 37.915413,
+     "lon": 30.304718
+    },
+    {
+     "lat": 37.923173,
+     "lon": 30.301431
+    },
+    {
+     "lat": 37.924702,
+     "lon": 30.301131
+    },
+    {
+     "lat": 37.930502,
+     "lon": 30.300505
+    },
+    {
+     "lat": 37.931708,
+     "lon": 30.300226
+    },
+    {
+     "lat": 37.931631,
+     "lon": 30.299806
+    },
+    {
+     "lat": 37.928679,
+     "lon": 30.300549
+    },
+    {
+     "lat": 37.924995,
+     "lon": 30.300914
+    }
+   ]
+  },
+  {
+   "id": "eds-1443",
+   "name": "Isparta Merkez / Isparta Keçiborlu",
+   "provinceHint": "Isparta",
+   "entryLat": 37.843014,
+   "entryLon": 30.5267,
+   "exitLat": 37.924995,
+   "exitLon": 30.300914,
+   "lengthMeters": 30154,
+   "speedLimitKph": 110.0,
+   "geometry": [
+    {
+     "lat": 37.843014,
+     "lon": 30.5267
+    },
+    {
+     "lat": 37.857837,
+     "lon": 30.523303
+    },
+    {
+     "lat": 37.858682,
+     "lon": 30.522965
+    },
+    {
+     "lat": 37.859536,
+     "lon": 30.522377
+    },
+    {
+     "lat": 37.863253,
+     "lon": 30.518961
+    },
+    {
+     "lat": 37.864594,
+     "lon": 30.518157
+    },
+    {
+     "lat": 37.866156,
+     "lon": 30.517825
+    },
+    {
+     "lat": 37.868286,
+     "lon": 30.517918
+    },
+    {
+     "lat": 37.869808,
+     "lon": 30.517484
+    },
+    {
+     "lat": 37.870692,
+     "lon": 30.516944
+    },
+    {
+     "lat": 37.871666,
+     "lon": 30.516104
+    },
+    {
+     "lat": 37.87526,
+     "lon": 30.51277
+    },
+    {
+     "lat": 37.883685,
+     "lon": 30.506969
+    },
+    {
+     "lat": 37.892241,
+     "lon": 30.500534
+    },
+    {
+     "lat": 37.892845,
+     "lon": 30.499955
+    },
+    {
+     "lat": 37.894489,
+     "lon": 30.497809
+    },
+    {
+     "lat": 37.895696,
+     "lon": 30.49682
+    },
+    {
+     "lat": 37.904025,
+     "lon": 30.491395
+    },
+    {
+     "lat": 37.913113,
+     "lon": 30.488154
+    },
+    {
+     "lat": 37.917416,
+     "lon": 30.486122
+    },
+    {
+     "lat": 37.920693,
+     "lon": 30.484197
+    },
+    {
+     "lat": 37.921423,
+     "lon": 30.483382
+    },
+    {
+     "lat": 37.921917,
+     "lon": 30.48245
+    },
+    {
+     "lat": 37.922289,
+     "lon": 30.481194
+    },
+    {
+     "lat": 37.922337,
+     "lon": 30.479409
+    },
+    {
+     "lat": 37.921105,
+     "lon": 30.470235
+    },
+    {
+     "lat": 37.920598,
+     "lon": 30.468043
+    },
+    {
+     "lat": 37.919561,
+     "lon": 30.465704
+    },
+    {
+     "lat": 37.913103,
+     "lon": 30.457015
+    },
+    {
+     "lat": 37.890955,
+     "lon": 30.427938
+    },
+    {
+     "lat": 37.889719,
+     "lon": 30.42593
+    },
+    {
+     "lat": 37.889189,
+     "lon": 30.424801
+    },
+    {
+     "lat": 37.888912,
+     "lon": 30.423487
+    },
+    {
+     "lat": 37.889233,
+     "lon": 30.422375
+    },
+    {
+     "lat": 37.889863,
+     "lon": 30.421179
     },
     {
      "lat": 37.890031,
@@ -149013,6 +149278,120 @@
    ]
   },
   {
+   "id": "eds-1903",
+   "name": "ADLİYE KAVŞAĞI GİRİŞ NOKTASI(Başlangıç)-TURGUT ÖZAL BULVARI-BASRA KAVŞAĞI ÇIKIŞ NOKTASI(Bitiş)",
+   "provinceHint": "Gazi̇antep",
+   "entryLat": 37.092353,
+   "entryLon": 37.366171,
+   "exitLat": 37.105286,
+   "exitLon": 37.374925,
+   "lengthMeters": 1724,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.092353,
+     "lon": 37.366171
+    },
+    {
+     "lat": 37.092897,
+     "lon": 37.367345
+    },
+    {
+     "lat": 37.093777,
+     "lon": 37.36855
+    },
+    {
+     "lat": 37.096181,
+     "lon": 37.370823
+    },
+    {
+     "lat": 37.097099,
+     "lon": 37.371159
+    },
+    {
+     "lat": 37.099788,
+     "lon": 37.371479
+    },
+    {
+     "lat": 37.100372,
+     "lon": 37.371896
+    },
+    {
+     "lat": 37.101087,
+     "lon": 37.373144
+    },
+    {
+     "lat": 37.101473,
+     "lon": 37.373513
+    },
+    {
+     "lat": 37.103996,
+     "lon": 37.374066
+    },
+    {
+     "lat": 37.105286,
+     "lon": 37.374925
+    }
+   ]
+  },
+  {
+   "id": "eds-1904",
+   "name": "BASRA KAVŞAĞIGİRİŞ NOKTASI(Başlangıç)-TURGUT ÖZAL BULVARI- ADLİYE KAVŞAĞI ÇIKIŞ NOKTASI(Bitiş)",
+   "provinceHint": "Gazi̇antep",
+   "entryLat": 37.105403,
+   "entryLon": 37.374695,
+   "exitLat": 37.092452,
+   "exitLon": 37.366066,
+   "lengthMeters": 1719,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.105403,
+     "lon": 37.374695
+    },
+    {
+     "lat": 37.104131,
+     "lon": 37.373954
+    },
+    {
+     "lat": 37.101476,
+     "lon": 37.373348
+    },
+    {
+     "lat": 37.101109,
+     "lon": 37.372914
+    },
+    {
+     "lat": 37.100622,
+     "lon": 37.371979
+    },
+    {
+     "lat": 37.099822,
+     "lon": 37.37131
+    },
+    {
+     "lat": 37.097095,
+     "lon": 37.370974
+    },
+    {
+     "lat": 37.096213,
+     "lon": 37.370656
+    },
+    {
+     "lat": 37.093852,
+     "lon": 37.368406
+    },
+    {
+     "lat": 37.092971,
+     "lon": 37.367186
+    },
+    {
+     "lat": 37.092452,
+     "lon": 37.366066
+    }
+   ]
+  },
+  {
    "id": "eds-1907",
    "name": "TURGUT ÖZAL KÖPRÜLÜ KAVŞAĞI GİRİŞ NOKTASI(Başlangıç)-D-400 KARAYOLU ÜZERİ-ÇİMENTO KAVŞAĞI ÇIKIŞ NOKTASI(Bitiş)",
    "provinceHint": "Gazi̇antep",
@@ -150340,6 +150719,616 @@
     {
      "lat": 39.489515,
      "lon": 35.375057
+    }
+   ]
+  },
+  {
+   "id": "eds-1969",
+   "name": "Unkapanı Ortalama Hız Tespit Giriş-Atatürk Bulvarı Unkapanı FATİH-Unkapanı Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.021578,
+   "entryLon": 28.960243,
+   "exitLat": 41.025494,
+   "exitLon": 28.968103,
+   "lengthMeters": 793,
+   "speedLimitKph": 50.0,
+   "geometry": [
+    {
+     "lat": 41.021578,
+     "lon": 28.960243
+    },
+    {
+     "lat": 41.022049,
+     "lon": 28.960871
+    },
+    {
+     "lat": 41.022942,
+     "lon": 28.962576
+    },
+    {
+     "lat": 41.025494,
+     "lon": 28.968103
+    }
+   ]
+  },
+  {
+   "id": "eds-1970",
+   "name": "Zincirlikuyu Haliç Ortalama Hız Tespit Giriş-O1 Bağlantı Yolu Zincirlikuyu-Haliç İstikameti BEYOĞLU-Zincirlikuyu Haliç Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.067,
+   "entryLon": 29.0068,
+   "exitLat": 41.051138,
+   "exitLon": 28.949464,
+   "lengthMeters": 5541,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.067,
+     "lon": 29.0068
+    },
+    {
+     "lat": 41.066604,
+     "lon": 28.999527
+    },
+    {
+     "lat": 41.066758,
+     "lon": 28.994461
+    },
+    {
+     "lat": 41.067191,
+     "lon": 28.988239
+    },
+    {
+     "lat": 41.067554,
+     "lon": 28.976496
+    },
+    {
+     "lat": 41.067463,
+     "lon": 28.975151
+    },
+    {
+     "lat": 41.067043,
+     "lon": 28.973281
+    },
+    {
+     "lat": 41.066339,
+     "lon": 28.971643
+    },
+    {
+     "lat": 41.065462,
+     "lon": 28.970316
+    },
+    {
+     "lat": 41.064488,
+     "lon": 28.96932
+    },
+    {
+     "lat": 41.060296,
+     "lon": 28.965779
+    },
+    {
+     "lat": 41.059255,
+     "lon": 28.964703
+    },
+    {
+     "lat": 41.057525,
+     "lon": 28.962527
+    },
+    {
+     "lat": 41.055177,
+     "lon": 28.958732
+    },
+    {
+     "lat": 41.051138,
+     "lon": 28.949464
+    }
+   ]
+  },
+  {
+   "id": "eds-1971",
+   "name": "Cevizlibağ Haliç Ortalama Hız Tespit Giriş-D100 Karayolu Cevizlibağ-Haliç İstikameti BEYOĞLU-Cevizlibağ Haliç Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.020537,
+   "entryLon": 28.917859,
+   "exitLat": 41.050003,
+   "exitLon": 28.948096,
+   "lengthMeters": 4216,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.020537,
+     "lon": 28.917859
+    },
+    {
+     "lat": 41.02222,
+     "lon": 28.920079
+    },
+    {
+     "lat": 41.02359,
+     "lon": 28.921369
+    },
+    {
+     "lat": 41.025842,
+     "lon": 28.922887
+    },
+    {
+     "lat": 41.029723,
+     "lon": 28.924601
+    },
+    {
+     "lat": 41.030982,
+     "lon": 28.92566
+    },
+    {
+     "lat": 41.031933,
+     "lon": 28.926973
+    },
+    {
+     "lat": 41.034117,
+     "lon": 28.930881
+    },
+    {
+     "lat": 41.038758,
+     "lon": 28.937755
+    },
+    {
+     "lat": 41.039723,
+     "lon": 28.938768
+    },
+    {
+     "lat": 41.047325,
+     "lon": 28.945008
+    },
+    {
+     "lat": 41.049025,
+     "lon": 28.946738
+    },
+    {
+     "lat": 41.050003,
+     "lon": 28.948096
+    }
+   ]
+  },
+  {
+   "id": "eds-1972",
+   "name": "Avcılar Haramidere Ortalama Hız Tespit Giriş-D100 Karayolu Avcılar-Haramidere İstikameti AVCILAR-Avcılar Haramidere Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.003841,
+   "entryLon": 28.685725,
+   "exitLat": 40.98923,
+   "exitLon": 28.716331,
+   "lengthMeters": 4989,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.003841,
+     "lon": 28.685725
+    },
+    {
+     "lat": 41.000832,
+     "lon": 28.689419
+    },
+    {
+     "lat": 41.000153,
+     "lon": 28.69068
+    },
+    {
+     "lat": 40.999681,
+     "lon": 28.692371
+    },
+    {
+     "lat": 40.999601,
+     "lon": 28.693438
+    },
+    {
+     "lat": 40.999771,
+     "lon": 28.696803
+    },
+    {
+     "lat": 40.999583,
+     "lon": 28.697952
+    },
+    {
+     "lat": 40.999268,
+     "lon": 28.698856
+    },
+    {
+     "lat": 40.989574,
+     "lon": 28.715401
+    },
+    {
+     "lat": 40.988563,
+     "lon": 28.716889
+    },
+    {
+     "lat": 40.985072,
+     "lon": 28.722853
+    },
+    {
+     "lat": 40.984698,
+     "lon": 28.722793
+    },
+    {
+     "lat": 40.984628,
+     "lon": 28.722505
+    },
+    {
+     "lat": 40.984814,
+     "lon": 28.722164
+    },
+    {
+     "lat": 40.985164,
+     "lon": 28.722163
+    },
+    {
+     "lat": 40.986065,
+     "lon": 28.722591
+    },
+    {
+     "lat": 40.986298,
+     "lon": 28.722973
+    },
+    {
+     "lat": 40.986252,
+     "lon": 28.723361
+    },
+    {
+     "lat": 40.985949,
+     "lon": 28.723593
+    },
+    {
+     "lat": 40.985722,
+     "lon": 28.723497
+    },
+    {
+     "lat": 40.985563,
+     "lon": 28.723094
+    },
+    {
+     "lat": 40.985656,
+     "lon": 28.722748
+    },
+    {
+     "lat": 40.986834,
+     "lon": 28.720458
+    },
+    {
+     "lat": 40.98923,
+     "lon": 28.716331
+    }
+   ]
+  },
+  {
+   "id": "eds-1973",
+   "name": "Beylikdüzü Haramidere Ortalama Hız Tespit Giriş-D100 Karayolu Beylikdüzü-Haramidere İstikameti BEYLİKDÜZÜ-Beylikdüzü Haramidere Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.018565,
+   "entryLon": 28.632678,
+   "exitLat": 41.005864,
+   "exitLon": 28.669196,
+   "lengthMeters": 3390,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.018565,
+     "lon": 28.632678
+    },
+    {
+     "lat": 41.011125,
+     "lon": 28.652541
+    },
+    {
+     "lat": 41.007219,
+     "lon": 28.662469
+    },
+    {
+     "lat": 41.006594,
+     "lon": 28.664381
+    },
+    {
+     "lat": 41.006184,
+     "lon": 28.666117
+    },
+    {
+     "lat": 41.005864,
+     "lon": 28.669196
+    }
+   ]
+  },
+  {
+   "id": "eds-1974",
+   "name": "Avcılar (Hacı Şerif) Küçükçekmece Ortalama Hız Tespit Giriş-D100 Karayolu Avcılar-Küçükçekmece İstikameti KÜÇÜKÇEKMECE-Avcılar (Hacı Şerif) Küçükçekmece Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 40.97786,
+   "entryLon": 28.736332,
+   "exitLat": 40.982936,
+   "exitLon": 28.759586,
+   "lengthMeters": 2093,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 40.97786,
+     "lon": 28.736332
+    },
+    {
+     "lat": 40.977483,
+     "lon": 28.737863
+    },
+    {
+     "lat": 40.977235,
+     "lon": 28.740283
+    },
+    {
+     "lat": 40.977283,
+     "lon": 28.742039
+    },
+    {
+     "lat": 40.977553,
+     "lon": 28.743645
+    },
+    {
+     "lat": 40.978115,
+     "lon": 28.745694
+    },
+    {
+     "lat": 40.982936,
+     "lon": 28.759586
+    }
+   ]
+  },
+  {
+   "id": "eds-1983",
+   "name": "Şile Yolu Ortalama Hız Tespit-1 Giriş-Şile Yolu Ümraniye-Çekmeköy istikameti-Şile Yolu Ortalama Hız Tespit-1 Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.031274,
+   "entryLon": 29.135631,
+   "exitLat": 41.02496,
+   "exitLon": 29.176287,
+   "lengthMeters": 4099,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.031274,
+     "lon": 29.135631
+    },
+    {
+     "lat": 41.033924,
+     "lon": 29.139887
+    },
+    {
+     "lat": 41.035315,
+     "lon": 29.14354
+    },
+    {
+     "lat": 41.036614,
+     "lon": 29.146223
+    },
+    {
+     "lat": 41.036772,
+     "lon": 29.146868
+    },
+    {
+     "lat": 41.036812,
+     "lon": 29.147829
+    },
+    {
+     "lat": 41.036488,
+     "lon": 29.150262
+    },
+    {
+     "lat": 41.036673,
+     "lon": 29.153514
+    },
+    {
+     "lat": 41.036613,
+     "lon": 29.154367
+    },
+    {
+     "lat": 41.036452,
+     "lon": 29.155099
+    },
+    {
+     "lat": 41.0356,
+     "lon": 29.157453
+    },
+    {
+     "lat": 41.035068,
+     "lon": 29.160798
+    },
+    {
+     "lat": 41.034767,
+     "lon": 29.161751
+    },
+    {
+     "lat": 41.034202,
+     "lon": 29.162678
+    },
+    {
+     "lat": 41.03219,
+     "lon": 29.165276
+    },
+    {
+     "lat": 41.031707,
+     "lon": 29.166401
+    },
+    {
+     "lat": 41.030561,
+     "lon": 29.170243
+    },
+    {
+     "lat": 41.029909,
+     "lon": 29.171177
+    },
+    {
+     "lat": 41.027885,
+     "lon": 29.172867
+    },
+    {
+     "lat": 41.02496,
+     "lon": 29.176287
+    }
+   ]
+  },
+  {
+   "id": "eds-1984",
+   "name": "Şile Yolu Ortalama Hız Tespit-2 Giriş-Şile Yolu Çekmeköy -Ümraniyeistikameti-Şile Yolu Ortalama Hız Tespit-2 Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.025319,
+   "entryLon": 29.176128,
+   "exitLat": 41.031614,
+   "exitLon": 29.135884,
+   "lengthMeters": 4046,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.025319,
+     "lon": 29.176128
+    },
+    {
+     "lat": 41.028071,
+     "lon": 29.172912
+    },
+    {
+     "lat": 41.030159,
+     "lon": 29.171194
+    },
+    {
+     "lat": 41.030672,
+     "lon": 29.170348
+    },
+    {
+     "lat": 41.032042,
+     "lon": 29.16594
+    },
+    {
+     "lat": 41.032741,
+     "lon": 29.16473
+    },
+    {
+     "lat": 41.034302,
+     "lon": 29.162831
+    },
+    {
+     "lat": 41.034886,
+     "lon": 29.16182
+    },
+    {
+     "lat": 41.035275,
+     "lon": 29.160291
+    },
+    {
+     "lat": 41.035637,
+     "lon": 29.157919
+    },
+    {
+     "lat": 41.036765,
+     "lon": 29.15439
+    },
+    {
+     "lat": 41.036835,
+     "lon": 29.153502
+    },
+    {
+     "lat": 41.036645,
+     "lon": 29.150282
+    },
+    {
+     "lat": 41.036968,
+     "lon": 29.147423
+    },
+    {
+     "lat": 41.036945,
+     "lon": 29.14676
+    },
+    {
+     "lat": 41.036776,
+     "lon": 29.146115
+    },
+    {
+     "lat": 41.035374,
+     "lon": 29.143193
+    },
+    {
+     "lat": 41.034023,
+     "lon": 29.139707
+    },
+    {
+     "lat": 41.031614,
+     "lon": 29.135884
+    }
+   ]
+  },
+  {
+   "id": "eds-1996",
+   "name": "Tarlabaşı Taksim Tünel Ortalama Hız Tespit Giriş-Tarlabaşı-Taksim Tünel Ortalama Hız Tespit BEYOĞLU-Tarlabaşı Taksim Tünel Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.037436,
+   "entryLon": 28.983777,
+   "exitLat": 41.039506,
+   "exitLon": 28.986072,
+   "lengthMeters": 326,
+   "speedLimitKph": 50.0,
+   "geometry": [
+    {
+     "lat": 41.037436,
+     "lon": 28.983777
+    },
+    {
+     "lat": 41.038107,
+     "lon": 28.985487
+    },
+    {
+     "lat": 41.039506,
+     "lon": 28.986072
+    }
+   ]
+  },
+  {
+   "id": "eds-1997",
+   "name": "Taksim Tarlabaşı Tünel Ortalama Hız Tespit Giriş-Taksim-Tarlabaşı Tünel Ortalama Hız Tespit BEYOĞLU-Taksim Tarlabaşı Tünel Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.037407,
+   "entryLon": 28.983696,
+   "exitLat": 41.039467,
+   "exitLon": 28.985956,
+   "lengthMeters": 1058,
+   "speedLimitKph": 50.0,
+   "geometry": [
+    {
+     "lat": 41.037407,
+     "lon": 28.983696
+    },
+    {
+     "lat": 41.038192,
+     "lon": 28.985568
+    },
+    {
+     "lat": 41.040539,
+     "lon": 28.986501
+    },
+    {
+     "lat": 41.040168,
+     "lon": 28.988845
+    },
+    {
+     "lat": 41.040464,
+     "lon": 28.988905
+    },
+    {
+     "lat": 41.040278,
+     "lon": 28.98864
+    },
+    {
+     "lat": 41.040669,
+     "lon": 28.986597
+    },
+    {
+     "lat": 41.040612,
+     "lon": 28.986289
+    },
+    {
+     "lat": 41.039467,
+     "lon": 28.985956
     }
    ]
   },
