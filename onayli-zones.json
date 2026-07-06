@@ -1,8 +1,8 @@
 {
- "version": "2026-07-05",
- "generated_at": "2026-07-05T19:26:02+00:00",
+ "version": "2026-07-06",
+ "generated_at": "2026-07-06T03:15:41+00:00",
  "source": "onayli",
- "count": 658,
+ "count": 670,
  "zones": [
   {
    "id": "eds-1225",
@@ -159658,6 +159658,586 @@
     {
      "lat": 40.85354,
      "lon": 31.202467
+    }
+   ]
+  },
+  {
+   "id": "eds-1932",
+   "name": "Medaş Kavşağı Aras Kargo Önü(giriş)-Atatürk Bulvarı -Kemal Aydoğan Okulu Önü(1.çıkış)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.962785,
+   "entryLon": 34.660202,
+   "exitLat": 37.961777,
+   "exitLon": 34.649907,
+   "lengthMeters": 1351,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.962785,
+     "lon": 34.660202
+    },
+    {
+     "lat": 37.962085,
+     "lon": 34.650731
+    },
+    {
+     "lat": 37.961675,
+     "lon": 34.649037
+    },
+    {
+     "lat": 37.961069,
+     "lon": 34.64771
+    },
+    {
+     "lat": 37.960912,
+     "lon": 34.647889
+    },
+    {
+     "lat": 37.961483,
+     "lon": 34.648962
+    },
+    {
+     "lat": 37.961777,
+     "lon": 34.649907
+    }
+   ]
+  },
+  {
+   "id": "eds-1933",
+   "name": "Medaş Kavşağı Aras Kargo Önü(BAŞLANGIÇ)-Alparslan Türkeş Bulvarı-Taşel Sitesi Kavşağı(2.çıkış)(Bitiş)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.962785,
+   "entryLon": 34.660202,
+   "exitLat": 37.954971,
+   "exitLon": 34.64084,
+   "lengthMeters": 2033,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.962785,
+     "lon": 34.660202
+    },
+    {
+     "lat": 37.962085,
+     "lon": 34.650731
+    },
+    {
+     "lat": 37.961488,
+     "lon": 34.648512
+    },
+    {
+     "lat": 37.961069,
+     "lon": 34.64771
+    },
+    {
+     "lat": 37.960353,
+     "lon": 34.646847
+    },
+    {
+     "lat": 37.958345,
+     "lon": 34.644932
+    },
+    {
+     "lat": 37.954971,
+     "lon": 34.64084
+    }
+   ]
+  },
+  {
+   "id": "eds-1934",
+   "name": "Medaş Kavşağı Aras Kargo Önü(BAŞLANGIÇ)-Alparslan Türkeş Bulvarı-Belediye Çevre Yolu Kavşağı(3.çıkış)(Bitiş)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.962785,
+   "entryLon": 34.660202,
+   "exitLat": 37.94886,
+   "exitLon": 34.6345,
+   "lengthMeters": 2912,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.962785,
+     "lon": 34.660202
+    },
+    {
+     "lat": 37.962085,
+     "lon": 34.650731
+    },
+    {
+     "lat": 37.961809,
+     "lon": 34.649447
+    },
+    {
+     "lat": 37.96122,
+     "lon": 34.647945
+    },
+    {
+     "lat": 37.960353,
+     "lon": 34.646847
+    },
+    {
+     "lat": 37.958345,
+     "lon": 34.644932
+    },
+    {
+     "lat": 37.954412,
+     "lon": 34.640188
+    },
+    {
+     "lat": 37.952147,
+     "lon": 34.637711
+    },
+    {
+     "lat": 37.94886,
+     "lon": 34.6345
+    }
+   ]
+  },
+  {
+   "id": "eds-1935",
+   "name": "Medaş Kavşağı Aras Kargo Önü(BAŞLANGIÇ)-Alparslan Türkeş Bulvarı-Kampüs Kavşağı(4.çıkış)(Bitiş)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.962785,
+   "entryLon": 34.660202,
+   "exitLat": 37.945006,
+   "exitLon": 34.625349,
+   "lengthMeters": 4199,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.962785,
+     "lon": 34.660202
+    },
+    {
+     "lat": 37.962085,
+     "lon": 34.650731
+    },
+    {
+     "lat": 37.961809,
+     "lon": 34.649447
+    },
+    {
+     "lat": 37.961291,
+     "lon": 34.648079
+    },
+    {
+     "lat": 37.960353,
+     "lon": 34.646847
+    },
+    {
+     "lat": 37.958345,
+     "lon": 34.644932
+    },
+    {
+     "lat": 37.954412,
+     "lon": 34.640188
+    },
+    {
+     "lat": 37.952147,
+     "lon": 34.637711
+    },
+    {
+     "lat": 37.948036,
+     "lon": 34.633576
+    },
+    {
+     "lat": 37.947519,
+     "lon": 34.632737
+    },
+    {
+     "lat": 37.94721,
+     "lon": 34.631953
+    },
+    {
+     "lat": 37.944737,
+     "lon": 34.623472
+    },
+    {
+     "lat": 37.944448,
+     "lon": 34.623567
+    },
+    {
+     "lat": 37.945006,
+     "lon": 34.625349
+    }
+   ]
+  },
+  {
+   "id": "eds-1936",
+   "name": "Medaş Kavşağı Aras Kargo Önü(BAŞLANGIÇ)-Tevfik Çalın Bulvarı-OSB Kavşağı(5.çıkış)(Bitiş)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.962785,
+   "entryLon": 34.660202,
+   "exitLat": 37.942538,
+   "exitLon": 34.618767,
+   "lengthMeters": 4479,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.962785,
+     "lon": 34.660202
+    },
+    {
+     "lat": 37.962085,
+     "lon": 34.650731
+    },
+    {
+     "lat": 37.961809,
+     "lon": 34.649447
+    },
+    {
+     "lat": 37.961291,
+     "lon": 34.648079
+    },
+    {
+     "lat": 37.960353,
+     "lon": 34.646847
+    },
+    {
+     "lat": 37.958345,
+     "lon": 34.644932
+    },
+    {
+     "lat": 37.954412,
+     "lon": 34.640188
+    },
+    {
+     "lat": 37.952147,
+     "lon": 34.637711
+    },
+    {
+     "lat": 37.948571,
+     "lon": 34.634222
+    },
+    {
+     "lat": 37.947877,
+     "lon": 34.633334
+    },
+    {
+     "lat": 37.94721,
+     "lon": 34.631953
+    },
+    {
+     "lat": 37.944737,
+     "lon": 34.623472
+    },
+    {
+     "lat": 37.944175,
+     "lon": 34.621872
+    },
+    {
+     "lat": 37.943508,
+     "lon": 34.620377
+    },
+    {
+     "lat": 37.942538,
+     "lon": 34.618767
+    }
+   ]
+  },
+  {
+   "id": "eds-1937",
+   "name": "Medaş Kavşağı Aras Kargo Önü(BAŞLANGIÇ)-Tevfik Çalın Bulvarı-Koyunlu Kavşağı(6.çıkış)(Bitiş)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.962785,
+   "entryLon": 34.660202,
+   "exitLat": 37.935716,
+   "exitLon": 34.608582,
+   "lengthMeters": 5651,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.962785,
+     "lon": 34.660202
+    },
+    {
+     "lat": 37.962085,
+     "lon": 34.650731
+    },
+    {
+     "lat": 37.961809,
+     "lon": 34.649447
+    },
+    {
+     "lat": 37.961291,
+     "lon": 34.648079
+    },
+    {
+     "lat": 37.960353,
+     "lon": 34.646847
+    },
+    {
+     "lat": 37.958345,
+     "lon": 34.644932
+    },
+    {
+     "lat": 37.954412,
+     "lon": 34.640188
+    },
+    {
+     "lat": 37.952147,
+     "lon": 34.637711
+    },
+    {
+     "lat": 37.948571,
+     "lon": 34.634222
+    },
+    {
+     "lat": 37.947877,
+     "lon": 34.633334
+    },
+    {
+     "lat": 37.94721,
+     "lon": 34.631953
+    },
+    {
+     "lat": 37.944683,
+     "lon": 34.623294
+    },
+    {
+     "lat": 37.943804,
+     "lon": 34.620976
+    },
+    {
+     "lat": 37.942168,
+     "lon": 34.618183
+    },
+    {
+     "lat": 37.935716,
+     "lon": 34.608582
+    }
+   ]
+  },
+  {
+   "id": "eds-1938",
+   "name": "Koyunlu Kavşağı(Giriş)-Tevfik Çalın Bulvarı-OSB Kavşağı(1.çıkış)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.93557,
+   "entryLon": 34.608733,
+   "exitLat": 37.940707,
+   "exitLon": 34.616392,
+   "lengthMeters": 882,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.93557,
+     "lon": 34.608733
+    },
+    {
+     "lat": 37.940707,
+     "lon": 34.616392
+    }
+   ]
+  },
+  {
+   "id": "eds-1939",
+   "name": "Koyunlu Kavşağı(Giriş)-Tevfik Çalın Bulvarı-Kampüs Kavşağı(2.çıkış)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.93557,
+   "entryLon": 34.608733,
+   "exitLat": 37.94426,
+   "exitLon": 34.622875,
+   "lengthMeters": 1579,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.93557,
+     "lon": 34.608733
+    },
+    {
+     "lat": 37.943002,
+     "lon": 34.619914
+    },
+    {
+     "lat": 37.943708,
+     "lon": 34.621221
+    },
+    {
+     "lat": 37.94426,
+     "lon": 34.622875
+    }
+   ]
+  },
+  {
+   "id": "eds-1940",
+   "name": "Koyunlu Kavşağı(Giriş)-Alparslan Türkeş Bulvarıı-Belediye Çevre Yolu Kavşağı(3.çıkış)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.93557,
+   "entryLon": 34.608733,
+   "exitLat": 37.947155,
+   "exitLon": 34.632328,
+   "lengthMeters": 2469,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.93557,
+     "lon": 34.608733
+    },
+    {
+     "lat": 37.942018,
+     "lon": 34.61835
+    },
+    {
+     "lat": 37.943708,
+     "lon": 34.621221
+    },
+    {
+     "lat": 37.947155,
+     "lon": 34.632328
+    }
+   ]
+  },
+  {
+   "id": "eds-1941",
+   "name": "Koyunlu Kavşağı(Giriş)-Alparslan Türkeş Bulvarıı- Taşel Sitesi Kavşağı(4.çıkış)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.93557,
+   "entryLon": 34.608733,
+   "exitLat": 37.953176,
+   "exitLon": 34.639134,
+   "lengthMeters": 3374,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.93557,
+     "lon": 34.608733
+    },
+    {
+     "lat": 37.942018,
+     "lon": 34.61835
+    },
+    {
+     "lat": 37.943708,
+     "lon": 34.621221
+    },
+    {
+     "lat": 37.947042,
+     "lon": 34.632042
+    },
+    {
+     "lat": 37.947726,
+     "lon": 34.633574
+    },
+    {
+     "lat": 37.948431,
+     "lon": 34.634427
+    },
+    {
+     "lat": 37.953176,
+     "lon": 34.639134
+    }
+   ]
+  },
+  {
+   "id": "eds-1942",
+   "name": "Koyunlu Kavşağı(Giriş)-Alparslan Türkeş Bulvarıı-Sabancı Yurdu Kavşağı(5.çıkış)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.93557,
+   "entryLon": 34.608733,
+   "exitLat": 37.959488,
+   "exitLon": 34.646319,
+   "lengthMeters": 4318,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.93557,
+     "lon": 34.608733
+    },
+    {
+     "lat": 37.942018,
+     "lon": 34.61835
+    },
+    {
+     "lat": 37.943708,
+     "lon": 34.621221
+    },
+    {
+     "lat": 37.947042,
+     "lon": 34.632042
+    },
+    {
+     "lat": 37.947726,
+     "lon": 34.633574
+    },
+    {
+     "lat": 37.948922,
+     "lon": 34.634927
+    },
+    {
+     "lat": 37.952833,
+     "lon": 34.638749
+    },
+    {
+     "lat": 37.958014,
+     "lon": 34.644816
+    },
+    {
+     "lat": 37.959488,
+     "lon": 34.646319
+    }
+   ]
+  },
+  {
+   "id": "eds-1943",
+   "name": "Koyunlu Kavşağı(Giriş)-Atatürk Bulvarı -Medaş Kavşağı(6.çıkış)",
+   "provinceHint": "Ni̇ğde",
+   "entryLat": 37.93557,
+   "entryLon": 34.608733,
+   "exitLat": 37.962677,
+   "exitLon": 34.660191,
+   "lengthMeters": 5639,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 37.93557,
+     "lon": 34.608733
+    },
+    {
+     "lat": 37.942018,
+     "lon": 34.61835
+    },
+    {
+     "lat": 37.943708,
+     "lon": 34.621221
+    },
+    {
+     "lat": 37.947042,
+     "lon": 34.632042
+    },
+    {
+     "lat": 37.947726,
+     "lon": 34.633574
+    },
+    {
+     "lat": 37.948922,
+     "lon": 34.634927
+    },
+    {
+     "lat": 37.952833,
+     "lon": 34.638749
+    },
+    {
+     "lat": 37.958014,
+     "lon": 34.644816
+    },
+    {
+     "lat": 37.9604,
+     "lon": 34.647205
+    },
+    {
+     "lat": 37.961133,
+     "lon": 34.648269
+    },
+    {
+     "lat": 37.96177,
+     "lon": 34.649873
+    },
+    {
+     "lat": 37.961966,
+     "lon": 34.650975
+    },
+    {
+     "lat": 37.962677,
+     "lon": 34.660191
     }
    ]
   },
