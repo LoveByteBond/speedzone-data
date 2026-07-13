@@ -1,8 +1,8 @@
 {
- "version": "2026-07-10",
- "generated_at": "2026-07-10T10:28:12+00:00",
+ "version": "2026-07-13",
+ "generated_at": "2026-07-13T17:45:54+00:00",
  "source": "onayli",
- "count": 685,
+ "count": 694,
  "zones": [
   {
    "id": "eds-1225",
@@ -166871,6 +166871,205 @@
    ]
   },
   {
+   "id": "eds-1962",
+   "name": "Ataköy Ortalama Hız Tespit Giriş-Rauf Orbay Cad. BAKIRKÖY-Ataköy Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 40.975756,
+   "entryLon": 28.864191,
+   "exitLat": 40.97099,
+   "exitLon": 28.844011,
+   "lengthMeters": 2657,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 40.975756,
+     "lon": 28.864191
+    },
+    {
+     "lat": 40.975461,
+     "lon": 28.866645
+    },
+    {
+     "lat": 40.975148,
+     "lon": 28.866804
+    },
+    {
+     "lat": 40.974966,
+     "lon": 28.866514
+    },
+    {
+     "lat": 40.975159,
+     "lon": 28.866166
+    },
+    {
+     "lat": 40.975931,
+     "lon": 28.866322
+    },
+    {
+     "lat": 40.976045,
+     "lon": 28.86668
+    },
+    {
+     "lat": 40.975842,
+     "lon": 28.866918
+    },
+    {
+     "lat": 40.975613,
+     "lon": 28.866727
+    },
+    {
+     "lat": 40.976736,
+     "lon": 28.856383
+    },
+    {
+     "lat": 40.976695,
+     "lon": 28.854968
+    },
+    {
+     "lat": 40.976288,
+     "lon": 28.852387
+    },
+    {
+     "lat": 40.975441,
+     "lon": 28.849924
+    },
+    {
+     "lat": 40.974481,
+     "lon": 28.848184
+    },
+    {
+     "lat": 40.973814,
+     "lon": 28.847311
+    },
+    {
+     "lat": 40.971851,
+     "lon": 28.845337
+    },
+    {
+     "lat": 40.97099,
+     "lon": 28.844011
+    }
+   ]
+  },
+  {
+   "id": "eds-1963",
+   "name": "Florya Ortalama Hız Tespit Giriş-Yeşilköy CadBakırköy-Florya Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 40.986533,
+   "entryLon": 28.798627,
+   "exitLat": 40.97829,
+   "exitLon": 28.803963,
+   "lengthMeters": 1378,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 40.986533,
+     "lon": 28.798627
+    },
+    {
+     "lat": 40.987173,
+     "lon": 28.797176
+    },
+    {
+     "lat": 40.987028,
+     "lon": 28.796821
+    },
+    {
+     "lat": 40.986749,
+     "lon": 28.796985
+    },
+    {
+     "lat": 40.98669,
+     "lon": 28.797853
+    },
+    {
+     "lat": 40.986352,
+     "lon": 28.798644
+    },
+    {
+     "lat": 40.985467,
+     "lon": 28.799793
+    },
+    {
+     "lat": 40.984413,
+     "lon": 28.800584
+    },
+    {
+     "lat": 40.97829,
+     "lon": 28.803963
+    }
+   ]
+  },
+  {
+   "id": "eds-1966",
+   "name": "Hava Harp Okulu Ortalama Hız Tespit Giriş-Rauf Orbay Cad. BAKIRKÖY-Hava Harp Okulu Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 40.969659,
+   "entryLon": 28.841145,
+   "exitLat": 40.974807,
+   "exitLon": 28.878196,
+   "lengthMeters": 3432,
+   "speedLimitKph": 60.0,
+   "geometry": [
+    {
+     "lat": 40.969659,
+     "lon": 28.841145
+    },
+    {
+     "lat": 40.97054,
+     "lon": 28.84358
+    },
+    {
+     "lat": 40.971493,
+     "lon": 28.845099
+    },
+    {
+     "lat": 40.973692,
+     "lon": 28.847432
+    },
+    {
+     "lat": 40.974993,
+     "lon": 28.849368
+    },
+    {
+     "lat": 40.975555,
+     "lon": 28.850594
+    },
+    {
+     "lat": 40.976107,
+     "lon": 28.852287
+    },
+    {
+     "lat": 40.976491,
+     "lon": 28.854456
+    },
+    {
+     "lat": 40.976596,
+     "lon": 28.856255
+    },
+    {
+     "lat": 40.97654,
+     "lon": 28.857374
+    },
+    {
+     "lat": 40.975139,
+     "lon": 28.869473
+    },
+    {
+     "lat": 40.973943,
+     "lon": 28.874738
+    },
+    {
+     "lat": 40.974017,
+     "lon": 28.875565
+    },
+    {
+     "lat": 40.974807,
+     "lon": 28.878196
+    }
+   ]
+  },
+  {
    "id": "eds-1969",
    "name": "Unkapanı Ortalama Hız Tespit Giriş-Atatürk Bulvarı Unkapanı FATİH-Unkapanı Ortalama Hız Tespit Çıkış",
    "provinceHint": "İstanbul",
@@ -167270,6 +167469,100 @@
    ]
   },
   {
+   "id": "eds-1976",
+   "name": "Sultançiftliği Habipler Ortalama Hız Tespit Giriş-Atatürk Bulvarı SULTANGAZİ-Sultançiftliği Habipler Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.092107,
+   "entryLon": 28.862216,
+   "exitLat": 41.10722,
+   "exitLon": 28.850831,
+   "lengthMeters": 1940,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.092107,
+     "lon": 28.862216
+    },
+    {
+     "lat": 41.092909,
+     "lon": 28.861621
+    },
+    {
+     "lat": 41.096132,
+     "lon": 28.85863
+    },
+    {
+     "lat": 41.098271,
+     "lon": 28.857285
+    },
+    {
+     "lat": 41.101944,
+     "lon": 28.854483
+    },
+    {
+     "lat": 41.105878,
+     "lon": 28.852181
+    },
+    {
+     "lat": 41.10722,
+     "lon": 28.850831
+    }
+   ]
+  },
+  {
+   "id": "eds-1977",
+   "name": "Habipler Arnavutköy-1 Ortalama Hız Tespit Giriş-Habipler Arnavutköy-Habipler Arnavutköy-1 Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.115103,
+   "entryLon": 28.845153,
+   "exitLat": 41.134516,
+   "exitLon": 28.824535,
+   "lengthMeters": 2928,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.115103,
+     "lon": 28.845153
+    },
+    {
+     "lat": 41.116487,
+     "lon": 28.845716
+    },
+    {
+     "lat": 41.117455,
+     "lon": 28.845886
+    },
+    {
+     "lat": 41.118367,
+     "lon": 28.845725
+    },
+    {
+     "lat": 41.119636,
+     "lon": 28.844905
+    },
+    {
+     "lat": 41.125931,
+     "lon": 28.835784
+    },
+    {
+     "lat": 41.128624,
+     "lon": 28.830928
+    },
+    {
+     "lat": 41.130654,
+     "lon": 28.82779
+    },
+    {
+     "lat": 41.131826,
+     "lon": 28.826663
+    },
+    {
+     "lat": 41.134516,
+     "lon": 28.824535
+    }
+   ]
+  },
+  {
    "id": "eds-1983",
    "name": "Şile Yolu Ortalama Hız Tespit-1 Giriş-Şile Yolu Ümraniye-Çekmeköy istikameti-Şile Yolu Ortalama Hız Tespit-1 Çıkış",
    "provinceHint": "İstanbul",
@@ -167448,6 +167741,154 @@
     {
      "lat": 41.031614,
      "lon": 29.135884
+    }
+   ]
+  },
+  {
+   "id": "eds-1990",
+   "name": "Kağıthane Piyalepaşa Tünel Ortalama Hız Tespit Giriş-Kağıthane-Piyalepaşa Tünel Ortalama Hız Tespit KAĞITHANE-Kağıthane Piyalepaşa Tünel Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.063415,
+   "entryLon": 28.954534,
+   "exitLat": 41.05419,
+   "exitLon": 28.969485,
+   "lengthMeters": 1624,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 41.063415,
+     "lon": 28.954534
+    },
+    {
+     "lat": 41.06273,
+     "lon": 28.955193
+    },
+    {
+     "lat": 41.06174,
+     "lon": 28.956671
+    },
+    {
+     "lat": 41.055372,
+     "lon": 28.967312
+    },
+    {
+     "lat": 41.05419,
+     "lon": 28.969485
+    }
+   ]
+  },
+  {
+   "id": "eds-1991",
+   "name": "Piyalepaşa Kağıthane Tünel Ortalama Hız Tespit Giriş-Piyalepaşa-Kağıthane Tünel Ortalama Hız Tespit ŞİŞLİ-Piyalepaşa Kağıthane Tünel Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.054461,
+   "entryLon": 28.969702,
+   "exitLat": 41.063609,
+   "exitLon": 28.95472,
+   "lengthMeters": 1626,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 41.054461,
+     "lon": 28.969702
+    },
+    {
+     "lat": 41.054626,
+     "lon": 28.968994
+    },
+    {
+     "lat": 41.055039,
+     "lon": 28.968248
+    },
+    {
+     "lat": 41.058914,
+     "lon": 28.96199
+    },
+    {
+     "lat": 41.061885,
+     "lon": 28.956864
+    },
+    {
+     "lat": 41.062672,
+     "lon": 28.955676
+    },
+    {
+     "lat": 41.063609,
+     "lon": 28.95472
+    }
+   ]
+  },
+  {
+   "id": "eds-1992",
+   "name": "Bomonti Dolmabahçe Tünel Ortalama Hız Tespit Giriş-Bomonti-Dolmabahçe Tünel Ortalama Hız Tespit ŞİŞLİ-Bomonti Dolmabahçe Tünel Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.058445,
+   "entryLon": 28.976266,
+   "exitLat": 41.04191,
+   "exitLon": 28.992704,
+   "lengthMeters": 2341,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 41.058445,
+     "lon": 28.976266
+    },
+    {
+     "lat": 41.048271,
+     "lon": 28.984836
+    },
+    {
+     "lat": 41.044645,
+     "lon": 28.988126
+    },
+    {
+     "lat": 41.042497,
+     "lon": 28.990421
+    },
+    {
+     "lat": 41.042126,
+     "lon": 28.991342
+    },
+    {
+     "lat": 41.04191,
+     "lon": 28.992704
+    }
+   ]
+  },
+  {
+   "id": "eds-1993",
+   "name": "Dolmabahçe Bomonti Tünel Ortalama Hız Tespit Giriş-Dolmabahçe-Bomonti Tünel Ortalama Hız Tespit ŞİŞLİ-Dolmabahçe Bomonti Tünel Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.042148,
+   "entryLon": 28.992718,
+   "exitLat": 41.058651,
+   "exitLon": 28.976488,
+   "lengthMeters": 2323,
+   "speedLimitKph": 70.0,
+   "geometry": [
+    {
+     "lat": 41.042148,
+     "lon": 28.992718
+    },
+    {
+     "lat": 41.042469,
+     "lon": 28.991164
+    },
+    {
+     "lat": 41.042843,
+     "lon": 28.9904
+    },
+    {
+     "lat": 41.04489,
+     "lon": 28.988291
+    },
+    {
+     "lat": 41.048516,
+     "lon": 28.985001
+    },
+    {
+     "lat": 41.058651,
+     "lon": 28.976488
     }
    ]
   },
