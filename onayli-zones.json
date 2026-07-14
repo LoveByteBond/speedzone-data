@@ -1,8 +1,8 @@
 {
- "version": "2026-07-13",
- "generated_at": "2026-07-13T17:45:54+00:00",
+ "version": "2026-07-14",
+ "generated_at": "2026-07-14T07:51:08+00:00",
  "source": "onayli",
- "count": 694,
+ "count": 696,
  "zones": [
   {
    "id": "eds-1225",
@@ -167066,6 +167066,152 @@
     {
      "lat": 40.974807,
      "lon": 28.878196
+    }
+   ]
+  },
+  {
+   "id": "eds-1967",
+   "name": "Mahmutbey Habipler Ortalama Hız Tespit Giriş-Mahmut Bey Cad. Mahmutbey Habipler Yolu ESENLER-Mahmutbey Habipler Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.075295,
+   "entryLon": 28.838622,
+   "exitLat": 41.105099,
+   "exitLon": 28.850075,
+   "lengthMeters": 5067,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.075295,
+     "lon": 28.838622
+    },
+    {
+     "lat": 41.077245,
+     "lon": 28.839423
+    },
+    {
+     "lat": 41.083397,
+     "lon": 28.843247
+    },
+    {
+     "lat": 41.090768,
+     "lon": 28.845334
+    },
+    {
+     "lat": 41.095232,
+     "lon": 28.847241
+    },
+    {
+     "lat": 41.097617,
+     "lon": 28.849065
+    },
+    {
+     "lat": 41.101605,
+     "lon": 28.850705
+    },
+    {
+     "lat": 41.10222,
+     "lon": 28.850737
+    },
+    {
+     "lat": 41.105152,
+     "lon": 28.850208
+    },
+    {
+     "lat": 41.107665,
+     "lon": 28.8502
+    },
+    {
+     "lat": 41.110475,
+     "lon": 28.848965
+    },
+    {
+     "lat": 41.111654,
+     "lon": 28.848647
+    },
+    {
+     "lat": 41.111765,
+     "lon": 28.848475
+    },
+    {
+     "lat": 41.111461,
+     "lon": 28.848028
+    },
+    {
+     "lat": 41.110758,
+     "lon": 28.847991
+    },
+    {
+     "lat": 41.106925,
+     "lon": 28.849912
+    },
+    {
+     "lat": 41.106314,
+     "lon": 28.85007
+    },
+    {
+     "lat": 41.105099,
+     "lon": 28.850075
+    }
+   ]
+  },
+  {
+   "id": "eds-1968",
+   "name": "Habipler Mahmutbey Ortalama Hız Tespit Giriş-Mahmut Bey Cad. Habipler-Mahmutbey Yolu ESENLER-Habipler Mahmutbey Ortalama Hız Tespit Çıkış",
+   "provinceHint": "İstanbul",
+   "entryLat": 41.109815,
+   "entryLon": 28.848445,
+   "exitLat": 41.0756,
+   "exitLon": 28.838499,
+   "lengthMeters": 4027,
+   "speedLimitKph": 80.0,
+   "geometry": [
+    {
+     "lat": 41.109815,
+     "lon": 28.848445
+    },
+    {
+     "lat": 41.108351,
+     "lon": 28.849276
+    },
+    {
+     "lat": 41.106569,
+     "lon": 28.85003
+    },
+    {
+     "lat": 41.104352,
+     "lon": 28.850121
+    },
+    {
+     "lat": 41.102268,
+     "lon": 28.850553
+    },
+    {
+     "lat": 41.10153,
+     "lon": 28.850426
+    },
+    {
+     "lat": 41.097403,
+     "lon": 28.848771
+    },
+    {
+     "lat": 41.094954,
+     "lon": 28.846564
+    },
+    {
+     "lat": 41.09421,
+     "lon": 28.846153
+    },
+    {
+     "lat": 41.083453,
+     "lon": 28.843078
+    },
+    {
+     "lat": 41.078087,
+     "lon": 28.839691
+    },
+    {
+     "lat": 41.0756,
+     "lon": 28.838499
     }
    ]
   },
